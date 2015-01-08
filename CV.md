@@ -41,6 +41,7 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology, 15:1201-1213.
 
 ### Presentations
+*   __Markelz RJC__. Linking systems modeling and computer vision to study plant competition in Brassica rapa. UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. Oral Presentation. -__2014__
 *	__Markelz RJC__. Systems biology of plant competition in *Brassica rapa*. NSF Plant Genome Annual Awardees Meeting. Washington, D.C. Oral Presentation. -__2014__
 *	__Markelz RJC__, Devissety UK, Covington MF, Maloof JN. Expression and physiological quantitative trait mapping in Brassica rapa in response to crowding. ASPB Annual Meeting. Portland, OR. Poster Presentation. - __2014__
 *        __Markelz RJC__ Quantitative genetic databases and eQTL mapping in Brassica rapa. UC Davis Postdoctoral Seminar Series. Davis, CA. Oral Presentation. - __2013__
