@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Placeholder"
+title: "artsciencehack"
 description: ""
 tags: [sample post, readability, test]
 comments: 
@@ -9,5 +9,21 @@ image:
   credit: 
   creditlink: 
 ---
+In the process of converting all of my old journal entries into something coherent for the outside world. Stay tuned! 
 
-This is a sample post. In the process of converting all of my old journal entries into something coherent for the outside world. Stay tuned!
+Until then check out this Arabidopsis City that I made after learning Rhino during a recent artsciencehack in Chicago over the New Years. 
+<figure>
+	<img src="/images/cityscape.jpg"></a>
+	<figcaption>Arabidopsis City visualization using rosette growth data.</figcaption>
+</figure>
+
+Also enjoy this rendering of a Brassica rapa architectural form by 
+[johnny clark](http://www.john-clark.org/)
+
+<figure>
+	<img src="/images/METABALL_5.jpg"></a>
+	<figcaption>Brassica rapa space structure</figcaption>
+</figure>
+
+
+
