@@ -11,7 +11,7 @@ image:
 ---
 
 ### Education
-*	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__
+*	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__       PhD Advisor: Dr. Andrew Leakey
 *	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
 *	B.S. University of Illinois at Urbana-Champaign Major: Integrative Biology (IB)  Minor: Chemistry - __2007__
 
