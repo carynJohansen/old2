@@ -87,11 +87,11 @@ image:
 *	[The Art of Science 2.0](http://www.igb.uiuc.edu/core/outreach) - I collaborated with an artist to blend disciplines and create art by visualizing biological processes using confocal microscopy. - __2012__
 *	__Presenter__: Microscopy Outreach Event- Mahomet Seymour Junior High School Science Club - __2012__
 *	__Organizer__: [National Pollinator Week](http://www.life.illinois.edu/entomology/pollinators/) - __2010 and 2011__
-*	__Chair__: [Plant Biology Graduate Student Association] (http://www.life.illinois.edu/plantbio/PBAGS.htm) - __2010-11__
+*	__Chair__: [Plant Biology Graduate Student Association](http://www.life.illinois.edu/plantbio/PBAGS.htm) - __2010-11__
 *	[Roots and Shoots](http://www.rootsandshoots.org/), University of Illinois Branch - __2010__
-*	__Departmental Colloquium Coordinator__: [Plant Biology Graduate Student Association] (http://www.life.illinois.edu/plantbio/PBAGS.htm) - __2009-10__
+*	__Departmental Colloquium Coordinator__: [Plant Biology Graduate Student Association](http://www.life.illinois.edu/plantbio/PBAGS.htm) - __2009-10__
 *	__Threatened Species Survey__, [Grampians National Park](http://www.environment.gov.au/heritage/places/national/grampians), Victoria, Australia - __2008__
-*	[International Impact](https://illinois.collegiatelink.net/organization/internationalimpact), Fundraising and school building project for small Ecuadorian Indigenous communities - __2005-07__
+*	International Impact, Fundraising and school building project for small Ecuadorian Indigenous communities - __2005-07__
 
 
 
