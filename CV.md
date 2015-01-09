@@ -17,7 +17,7 @@ Advisor: Dr. Andrew Leakey
 *	B.S. University of Illinois at Urbana-Champaign Major: Integrative Biology (IB)  Minor: Chemistry - __2007__
 
 ### Grants and Awards
-*	PI: NSF- Postdoctoral Fellowships in Biology- Plant Genome Research Program ($216,000) - __2014-17__
+*	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
 *	Collaborator: Genotyping by Sequencing and Detection of eQTLs in a Recombinant Inbred Line Population of Brassica rapa. TACC Lonestar4 Super Computer Cluster (260,000 Units). - __2013-14__
 *	PI: National Science Foundation Graduate Research Fellowship ($135,000) - __2009-12__
 *	Co-PI: Project Leader, ASPB Education Foundation Grant- Plants iView ($19,983) - __2011-12__
@@ -41,10 +41,12 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology, 15:1201-1213.
 
 ### Presentations
-*   __Markelz RJC__. Linking systems modeling and computer vision to study plant competition in Brassica rapa. UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. Oral Presentation. -__2014__
-*	__Markelz RJC__. Systems biology of plant competition in *Brassica rapa*. NSF Plant Genome Annual Awardees Meeting. Washington, D.C. Oral Presentation. -__2014__
+*   __Markelz RJC__. Linking systems modeling and computer vision to study plant competition in *Brassica rapa*. UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. Oral Presentation. - __2014__
+*   An N, Palmer CM, Baker RL, Brock MT, __Markelz RJC__, Price K,  Maloof JN, Welch SM, and Weinig. Proximal Sensing: Experiences from Arabidopsis and *Brassica rapa*. Agronomy Society of America Annual Meeting, Long Beach, California. Oral Presentation by SM Welch. - __2014__ 
+*	__Markelz RJC__. Systems biology of plant competition in *Brassica rapa*. National Science Foundation, Arlington,  VA. Oral Presentation. - __2014__
+*   Baker RL, Brock MT, Covington MF, Das S, Devisetty UK, Fung LW,  Greenham K, Lou P, Maloof JN, __Markelz RJC__, McClung CR, Nozue K, Palmer CM, Weinig C, and Welch SM. National Science Foundation, Arlington,  VA. Agroecological annotation of gene function and computational analysis of gene networks. Poster Presentation. - __2014__
 *	__Markelz RJC__, Devissety UK, Covington MF, Maloof JN. Expression and physiological quantitative trait mapping in Brassica rapa in response to crowding. ASPB Annual Meeting. Portland, OR. Poster Presentation. - __2014__
-*        __Markelz RJC__ Quantitative genetic databases and eQTL mapping in Brassica rapa. UC Davis Postdoctoral Seminar Series. Davis, CA. Oral Presentation. - __2013__
+*   __Markelz RJC__ Quantitative genetic databases and eQTL mapping in *Brassica rapa*. UC Davis Postdoctoral Seminar Series. Davis, CA. Oral Presentation. - __2013__
 *	__Markelz RJC__ Connecting genotype to phenotype in Brassica rapa using statistical and computational techniques. UC Davis Plant Cell Biology Retreat. Asilomar, CA. Oral Presentation. - __2013__
 *	__Markelz RJC__, Vosseller LN, Leakey ADB: Elevated CO2 concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Keystone Symposium: Plant Abiotic Stress and Sustainable Agriculture. Taos, NM. Poster Presentation. - __2013__
 *	__Markelz RJC__ The stimulation of leaf respiration and transcriptional reprogramming by elevated CO2 concentration is diminished, but not eliminated, under limiting nitrogen supply. ASPB Annual Meeting. Austin, TX. Oral Presentation and Poster Presentation. - __2012__
@@ -61,13 +63,15 @@ Advisor: Dr. Andrew Leakey
 *	__Markelz RJC__.  How will elevated [CO2] alter soil and plant water status of the C3-crop soybean and the C4-crop maize? Proctor and Gamble Student Research Competition. Oral Presentation. - __2007__
 
 ## Teaching
-*	Lecturer and Teaching Assistant General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
+*	Lecturer and Teaching Assistant of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
 *	Teaching Assistant Graduate Level Class- Integrative Biology 440: Plants and Global Change. Developed science communication module- Students created Podcasts for primary climate change literature. - __2009__
 
 ## Mentoring
-*	Tiffany Ho (Biology, Bioinformatics, UC Davis) - __2014-__
+*   Shweta Dash (Biology, UC Davis) - __2015-__
+*	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
+*	[Tiffany Ho](https://github.com/tiaho) (Biology, Bioinformatics, UC Davis) - __2014-__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-__
-*   James Ta (Biology, UC Davis) - __2014-__
+*   James Ta (Junior Specialist) - __2014-__
 *   Christina Day (Biology, UC Davis) - __2014-__
 *	Kamalpreet Sahota (Religious Studies, Biology- UC Davis) – Graduate Student Touro University - __2013-14__
 *	Navi Singh (Biology- UC Davis) - __2013-14__
