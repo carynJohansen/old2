@@ -10,7 +10,6 @@ image:
   feature: texture-feature-06.jpg
 ---
 
-### Publications
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO2 concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment DOI: 10.1111/pce.12323
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO2 concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898
 *	Hussain MZ, VanLoocke A, __Markelz RJC__, Leakey ADB, Ort DO, Bernacchi CJ (__2013__) Future carbon dioxide concentration decreases canopy evapotranspiration and soil water depletion by field-grown maize. Global Change Biology. 19:1572-1584
