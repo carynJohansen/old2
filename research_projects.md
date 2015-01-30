@@ -10,7 +10,7 @@ image:
   feature: texture-feature-06.jpg
   <!-- credit: Arabidopsis contrast -->
 ---
- I am interested in how plants make metabolic tradeoffs to compete for light resources above ground while also competing for nutrient and water resources belowground. I am taking a systems genetics approach that leverages my background in whole plant physiology, metabolism, and modeling. There are only so many hours in the day so this site is a work in progress. More to come...until then, here is a project outline.
+ I am interested in how plants make metabolic tradeoffs to compete for light resources above ground while also competing for nutrient and water resources belowground. I am taking a systems genetics approach that leverages my background in whole plant physiology, metabolism, and modeling. More details to come, but here is a project outline of current post-doc projects and former projects. 
 
 #Postdoc Projects
 * genotype by crowding environment eQTL mapping in B. rapa
@@ -20,7 +20,7 @@ image:
 * computer vision pipelines for high-throughput phenotyping and non-destructive model validation
 
 #PhD Thesis Projects
-* CO2 Development Respiration- Arabidopsis - [Publication](http://onlinelibrary.wiley.com/doi/10.1111/pce.12323/full)
+* CO2 Development Respiration- Arabidopsis - [Publication](/pdfs/Markelz_etal_2014b.pdf)
 * CO2 Nitrogen Respiration- Arabidopsis - [Publication](http://onlinelibrary.wiley.com/doi/10.1111/pce.12205/full)
 * CO2 Nitrogen Drought- Maize - [Publication](http://jxb.oxfordjournals.org/content/62/9/3235.short)
 
@@ -31,3 +31,4 @@ image:
 
 #Undergraduate Thesis Project
 * How will elevated [CO2] alter soil and plant water status of the C3-crop soybean and the C4-crop maize? -[Publication](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12155/full)
+

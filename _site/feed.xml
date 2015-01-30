@@ -4,45 +4,13 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-01-27T19:22:32-08:00</updated>
+<updated>2015-01-29T18:44:38-08:00</updated>
 <id>http://localhost:4000/</id>
 <author>
-  <name>RJ Cody Markelz</name>
+  <name>RJ Cody Markelzs</name>
   <uri>http://localhost:4000/</uri>
   <email>rjcmarkelz@gmail.com</email>
 </author>
-
-
-<entry>
-  <title type="html"><![CDATA[artsciencehack]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/artsciencehack/" />
-  <id>http://localhost:4000/artsciencehack</id>
-  <published>2014-12-27T00:00:00-08:00</published>
-  <updated>2014-12-27T00:00:00-08:00</updated>
-  <author>
-    <name>RJ Cody Markelz</name>
-    <uri>http://localhost:4000</uri>
-    <email>rjcmarkelz@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;In the process of converting all of my old journal entries into something coherent for the outside world. Stay tuned! &lt;/p&gt;
-
-&lt;p&gt;Until then check out this Arabidopsis City that I made after learning Rhino during a recent artsciencehack in Chicago over the New Years. &lt;/p&gt;
-&lt;figure&gt;
-	&lt;img src=&quot;/images/cityscape.jpg&quot; /&gt;
-	&lt;figcaption&gt;Arabidopsis City visualization using rosette growth data.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Also enjoy this rendering of a Brassica rapa architectural form by 
-&lt;a href=&quot;http://www.john-clark.org/&quot;&gt;johnny clark&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/images/METABALL_5.jpg&quot; /&gt;
-	&lt;figcaption&gt;Brassica rapa space structure&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/artsciencehack/&quot;&gt;artsciencehack&lt;/a&gt; was originally published by RJ Cody Markelz at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on December 27, 2014.&lt;/p&gt;</content>
-</entry>
 
 
 <entry>
@@ -52,7 +20,7 @@
   <published>2014-10-19T00:00:00-07:00</published>
   <updated>2014-10-19T00:00:00-07:00</updated>
   <author>
-    <name>RJ Cody Markelz</name>
+    <name>RJ Cody Markelzs</name>
     <uri>http://localhost:4000</uri>
     <email>rjcmarkelz@gmail.com</email>
   </author>
@@ -73,7 +41,7 @@
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Welcome/&quot;&gt;Welcome: Site construction in Progress&lt;/a&gt; was originally published by RJ Cody Markelz at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on October 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Welcome/&quot;&gt;Welcome: Site construction in Progress&lt;/a&gt; was originally published by RJ Cody Markelzs at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on October 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
