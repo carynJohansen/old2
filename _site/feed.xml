@@ -4,45 +4,59 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-02-15T16:45:59-08:00</updated>
+<updated>2015-02-15T21:53:26-08:00</updated>
 <id>http://localhost:4000/</id>
 <author>
-  <name>RJ Cody Markelzs</name>
+  <name>RJ Cody Markelz</name>
   <uri>http://localhost:4000/</uri>
   <email>rjcmarkelz@gmail.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Art + Science + Design + Rapid Idea Expressions = ArtScienceHack]]></title>
+  <title type="html"><![CDATA[Art + Science + Design + Rapid Idea Expression = ArtScienceHack]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/ArtScienceHack/" />
   <id>http://localhost:4000/ArtScienceHack</id>
   <published>2015-01-01T00:00:00-08:00</published>
   <updated>2015-01-01T00:00:00-08:00</updated>
   <author>
-    <name>RJ Cody Markelzs</name>
+    <name>RJ Cody Markelz</name>
     <uri>http://localhost:4000</uri>
     <email>rjcmarkelz@gmail.com</email>
   </author>
   <content type="html">&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
-&lt;p&gt;Get together with friends and discuss what data means and think about artistic ways to visualize the data.&lt;/p&gt;
+&lt;p&gt;I have two really good friends that are both professional designers/artists living in Chicago. Every year over the holiday break we would discuss how fun it would be to do a collaborative project, but never got around to doing one because of our busy schedules. This year we planned a few months in advance to have a hackathon style four day work session between Christmas and New Years. &lt;/p&gt;
 
-&lt;p&gt;Until then check out this Arabidopsis City that I made after learning Rhino during a recent artsciencehack in Chicago over the New Years. &lt;/p&gt;
+&lt;h1 id=&quot;crew&quot;&gt;Crew&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.john-clark.org/&quot;&gt;Johnny Clark&lt;/a&gt; is an architect and designer currently working for &lt;a href=&quot;http://mozer.com/&quot;&gt;Jordan Mozer&lt;/a&gt;. The Mozer firm’s was our homebase for creativity, industrial grade internet, and organic shape object art. &lt;a href=&quot;http://matthewharlan.com/&quot;&gt;Matt Harlan&lt;/a&gt; is a freelance designer and screen printing extrodinaire. And Myself.&lt;/p&gt;
+
+&lt;h1 id=&quot;digital-products&quot;&gt;Digital Products&lt;/h1&gt;
+
+&lt;h4 id=&quot;arabidopsis-thaliana-architectural-forms&quot;&gt;Arabidopsis thaliana architectural forms&lt;/h4&gt;
+&lt;p&gt;I just learned Rhino about four hours earlier so this was a successful visualization of an Arabidopsis growth time series. This is a mosaic of the steps in constructing this city. As part of another project in the lab I have thousands of Arabidopsis timelapse images. I quicky modified some other code for a quick &lt;a href=&quot;https://github.com/rjcmarkelz/AT_CV/blob/master/scripts/arabidopsis_hack.py&quot;&gt;python script&lt;/a&gt; to binerize the plant relative to the background and then quantified plant area in each successive image. The height of the buildings correspond to the difference in rosette size from the previous timepoint. Then I got to really have fun and make a skyline and city in the shape of one of the plant outlines. Moving around the city that I had just made was really trippy especially when doing it from a 6 foot tall person perspective. The upper right is a view from the skydeck of a building. Johnny helped me make the surface transparent to give it a glass coffeetable feel. I think overall this project might help me pass Architecture 101.&lt;/p&gt;
+
 &lt;figure&gt;
 	&lt;img src=&quot;/images/cityscape.jpg&quot; /&gt;
 	&lt;figcaption&gt;Arabidopsis City visualization using rosette growth data.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Also enjoy this rendering of a Brassica rapa architectural form by 
-&lt;a href=&quot;http://www.john-clark.org/&quot;&gt;johnny clark&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;brassica-rapa-architectural-forms&quot;&gt;Brassica rapa architectural forms&lt;/h4&gt;
+&lt;p&gt;For another lab project I am doing some 3D reconstructions of Brassica rapa. I have loads of this kind of data, but thought it would be nice to see what an artist’s perspective might use the data for. First things first, it was much too dense to load into memory so we randomly sampled the point cloud and made some wire frames by nearest neighbor searches. The renderings are simple and elegant. Then Johnny took it to the next level with a Rhino plugin called Grasshopper to produce the metaball renderings and octree representations of the data. A free plugin that might make the cost of Rhino worth it. &lt;/p&gt;
 
 &lt;figure&gt;
+	&lt;img src=&quot;/images/proximity.jpg&quot; /&gt;
+	&lt;figcaption&gt;Brassica rapa sparse proximity structure&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
 	&lt;img src=&quot;/images/METABALL_5.jpg&quot; /&gt;
-	&lt;figcaption&gt;Brassica rapa space structure&lt;/figcaption&gt;
+	&lt;figcaption&gt;Brassica rapa metaball space structure&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;h1 id=&quot;sculpture-products&quot;&gt;Sculpture Products&lt;/h1&gt;
+&lt;p&gt;####Arabidopsis thaliana timelapse sculpture&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/ArtScienceHack/&quot;&gt;Art + Science + Design + Rapid Idea Expressions = ArtScienceHack&lt;/a&gt; was originally published by RJ Cody Markelzs at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on January 01, 2015.&lt;/p&gt;</content>
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/ArtScienceHack/&quot;&gt;Art + Science + Design + Rapid Idea Expression = ArtScienceHack&lt;/a&gt; was originally published by RJ Cody Markelz at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on January 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -53,7 +67,7 @@
   <published>2014-10-19T00:00:00-07:00</published>
   <updated>2014-10-19T00:00:00-07:00</updated>
   <author>
-    <name>RJ Cody Markelzs</name>
+    <name>RJ Cody Markelz</name>
     <uri>http://localhost:4000</uri>
     <email>rjcmarkelz@gmail.com</email>
   </author>
@@ -74,7 +88,7 @@
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Welcome/&quot;&gt;Welcome: Site construction in Progress&lt;/a&gt; was originally published by RJ Cody Markelzs at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on October 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Welcome/&quot;&gt;Welcome: Site construction in Progress&lt;/a&gt; was originally published by RJ Cody Markelz at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on October 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
