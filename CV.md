@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 tagline: 
 tags: 
-modified: 07-01-2014
+modified: 02-18-2015
 comments: false
 image:
   feature: texture-feature-06.jpg
@@ -32,13 +32,13 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Publications
-* __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO2 concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment DOI: 10.1111/pce.12323
-* __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO2 concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898
-*	Hussain MZ, VanLoocke A, __Markelz RJC__, Leakey ADB, Ort DO, Bernacchi CJ (__2013__) Future carbon dioxide concentration decreases canopy evapotranspiration and soil water depletion by field-grown maize. Global Change Biology. 19:1572-1584
-*	Walters KR, Rupassara SI, __Markelz RJC__, Leakey ADB, Muir W, Pittendrigh B (__2012__) Methamphetamine causes anorexia in Drosophila melanogaster, exhausting metabolic reserves and contributing to mortality. The Journal of Toxicological Sciences. 4:773-790
-*	Gillespie KM, Xu F, Richter KT, McGrath JM, __Markelz RJC__, Ort DR, Leakey DB, Ainsworth EA (__2012__) Greater Antioxidant and Respiratory Metabolism in Field-Grown Soybean Exposed to Elevated O3 Under Both Ambient and Elevated CO2 Concentrations. Plant, Cell, and Environment. 35:164-184.
-*	__Markelz RJC__, Strellner RS, Leakey ADB (__2011__) Impairment of C4 photosynthesis by drought is exacerbated by limiting nitrogen and ameliorated by elevated [CO2] in maize. J. Exp. Bot., 62:3235-3246. 
-*	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology, 15:1201-1213.
+* __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO2 concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
+* __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO2 concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
+*	Hussain MZ, VanLoocke A, __Markelz RJC__, Leakey ADB, Ort DO, Bernacchi CJ (__2013__) Future carbon dioxide concentration decreases canopy evapotranspiration and soil water depletion by field-grown maize. Global Change Biology. 19:1572–1584. [paper](/pdfs/Hussain_etal_2013.pdf)
+*	Walters KR, Rupassara SI, __Markelz RJC__, Leakey ADB, Muir W, Pittendrigh B (__2012__) Methamphetamine causes anorexia in Drosophila melanogaster, exhausting metabolic reserves and contributing to mortality. The Journal of Toxicological Sciences. 4:773-790. [paper](/pdfs/Walters_etal_2012.pdf)
+*	Gillespie KM, Xu F, Richter KT, McGrath JM, __Markelz RJC__, Ort DR, Leakey DB, Ainsworth EA (__2012__) Greater Antioxidant and Respiratory Metabolism in Field-Grown Soybean Exposed to Elevated O3 Under Both Ambient and Elevated CO2 Concentrations. Plant, Cell, and Environment. 35:164-184. [paper](/pdfs/Gillespie_etal_2012.pdf)
+*	__Markelz RJC__, Strellner RS, Leakey ADB (__2011__) Impairment of C4 photosynthesis by drought is exacerbated by limiting nitrogen and ameliorated by elevated [CO2] in maize. Journal of Experimental Botany. 62:3235-3246. [paper](/pdfs/Markelz_etal_2011.pdf)
+*	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 ### Presentations
 *   __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN. Systems genetics of crowding tolerance in *Brassica rapa*. Plant Animal Genome. San Diego, CA. Poster Presentation. - __2015__
@@ -64,13 +64,14 @@ Advisor: Dr. Andrew Leakey
 *	__Markelz RJC__.  How will elevated [CO2] alter soil and plant water status of the C3-crop soybean and the C4-crop maize? Proctor and Gamble Student Research Competition. Oral Presentation. - __2007__
 
 ## Teaching
+*   Guest Lecturer- Plant Biology 220: Plant Developmental Biology. "QTL mapping with -omics scale data" - __2015__
 *	Lecturer and Teaching Assistant of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
 *	Teaching Assistant Graduate Level Class- Integrative Biology 440: Plants and Global Change. Developed science communication module- Students created Podcasts for primary climate change literature. - __2009__
 
 ## Mentoring
 *   Shweta Dash (Biology, UC Davis) - __2015-__
 *	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
-*	[Tiffany Ho](https://github.com/tiaho) (Biology, Bioinformatics, UC Davis) - __2014-__
+*	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - __2014-__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-__
 *   James Ta (Junior Specialist) - __2014-__
 *   Christina Day (Biology, UC Davis) - __2014-__

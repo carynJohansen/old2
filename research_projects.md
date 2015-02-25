@@ -20,15 +20,15 @@ image:
 * computer vision pipelines for high-throughput phenotyping and non-destructive model validation
 
 #PhD Thesis Projects
-* CO2 Development Respiration- Arabidopsis - [Publication](/pdfs/Markelz_etal_2014b.pdf)
-* CO2 Nitrogen Respiration- Arabidopsis - [Publication](http://onlinelibrary.wiley.com/doi/10.1111/pce.12205/full)
-* CO2 Nitrogen Drought- Maize - [Publication](http://jxb.oxfordjournals.org/content/62/9/3235.short)
+* CO2 Development Respiration- Arabidopsis - [paper](/pdfs/Markelz_etal_2014b.pdf)
+* CO2 Nitrogen Respiration- Arabidopsis - [paper](/pdfs/Markelz_etal_2014a.pdf)
+* CO2 Nitrogen Drought- Maize - [paper](/pdfs/Markelz_etal_2011.pdf)
 
 #Equipment Projects
 * Single leaf Arabidopsis respiration chamber/pipeline - Publications (see Arabidopsis thesis work)
-* Custom LICOR 6400 chamber head for soybean leaf respiration - [Publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3040.2011.02427.x/full)
-* Fruitfly Respiration - [Publication](https://www.jstage.jst.go.jp/article/jts/37/4/37_773/_article)
+* Custom LICOR 6400 chamber head for soybean leaf respiration - [paper](/pdfs/Gillespie_etal_2012.pdf)
+* Fruitfly Respiration - [paper](/pdfs/Walters_etal_2012.pdf)
 
 #Undergraduate Thesis Project
-* How will elevated [CO2] alter soil and plant water status of the C3-crop soybean and the C4-crop maize? -[Publication](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12155/full)
+* How will elevated [CO2] alter soil and plant water status of the C3-crop soybean and the C4-crop maize? -[paper](/pdfs/Hussain_etal_2013.pdf)
 
