@@ -11,7 +11,7 @@ image:
 ---
 # Fun Projects
 
-1. artsciencehack
+1. [artsciencehack](/pdfs/Markelz_etal_2014b.pdf)
 2. [Plants iView](http://www.igb.illinois.edu/plantsiview/)
 3. [Art of Science 2.0](http://www.igb.illinois.edu/core/artscience2)
 

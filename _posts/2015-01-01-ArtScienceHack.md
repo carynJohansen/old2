@@ -15,7 +15,7 @@ I have two really good friends that are both professional designers/artists livi
 #Crew
 [Johnny Clark](http://www.john-clark.org/) is an architect and designer currently working for [Jordan Mozer](http://mozer.com/). The Mozer firm's was our homebase for creativity, industrial grade internet, and organic shape object art inspiration. [Matt Harlan](http://matthewharlan.com/) is a freelance designer and screen printing extrodinaire. Matt also works on this awesome architecture zine called [soiled](http://soiledzine.org/). And myself.
 
-#Digital Products
+##Examples
 
 ####Arabidopsis thaliana architectural forms
 I just learned Rhino about four hours earlier so this was a successful visualization of an Arabidopsis growth time series. This is a mosaic of the steps in constructing this city. As part of another project in the lab I have thousands of Arabidopsis timelapse images. I quicky modified some other code for a quick [python script](https://github.com/rjcmarkelz/AT_CV/blob/master/scripts/arabidopsis_hack.py) to binerize the plant relative to the background and then quantified plant area in each successive image. The height of the buildings correspond to the difference in rosette size from the previous timepoint. Then I got to really have fun and make a skyline and city in the shape of one of the plant outlines. Moving around the city that I had just made was really trippy especially when doing it from a 6 foot tall person perspective. The upper right is a view from the skydeck of a building. Johnny helped me make the surface transparent to give it a glass coffeetable feel. I think overall this project might help me pass Architecture 101.
@@ -36,16 +36,6 @@ For another lab project I am doing some 3D reconstructions of Brassica rapa. I h
 	<img src="/images/METABALL_5.jpg"></a>
 	<figcaption>Brassica rapa metaball space structure</figcaption>
 </figure>
-
-#Sculpture Products
-
-
-####Arabidopsis thaliana timelapse sculpture
-
-#Failed Products
-
-
-####Papakura version of Brassica rapa octree
 
 
 
