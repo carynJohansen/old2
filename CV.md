@@ -10,11 +10,12 @@ image:
   feature: texture-feature-06.jpg
 ---
 
-### Education
+### Education and Short Courses
+*   Summer Institute in Statistical Genetics, University of Washington - __2014__
 *	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__
 Advisor: Dr. Andrew Leakey
 *	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
-*	B.S. University of Illinois at Urbana-Champaign Major: Integrative Biology (IB)  Minor: Chemistry - __2007__
+*	B.S. Integrative Biology Minor: Chemistry, University of Illinois at Urbana-Champaign - __2007__
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
@@ -73,7 +74,7 @@ Advisor: Dr. Andrew Leakey
 *	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
 *	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - __2014-__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-__
-*   James Ta (Junior Specialist) - __2014-__
+*   James Ta (Junior Specialist, UC Davis) - __2014-__
 *   Christina Day (Biology, UC Davis) - __2014-__
 *	Kamalpreet Sahota (Religious Studies, Biology- UC Davis) – Graduate Student Touro University - __2013-14__
 *	Navi Singh (Biology- UC Davis) - __2013-14__
@@ -83,13 +84,13 @@ Advisor: Dr. Andrew Leakey
 *	Lauren Vosseller (Molecular and Cellular Biology- University of Illinois) - Co-Author, Graduate Student University of Illinois- Chicago - __2010-12__
 *	Alexander Petit (History- University of Illinois) - James Scholar Program
 *	Brian Zehr (IB- University of Illinois)- [India rural eye-care network](http://www.dekhon.org/) - __2010-11__
-*	Ryan Boyd (IB- University of Illinois) - Graduate student at Washington State University - __2009-10__
+*	[Ryan Boyd](http://cousinslab.wsu.edu/people.php) (IB- University of Illinois) - Graduate student at Washington State University - __2009-10__
 *	Reid Strellner (IB- University of Illinois) - Co-author, Graduate student at Northwestern University - __2008-10__
-*	Derek Haselhorst (IB- University of Illinois) - Graduate Student at University of Illinois- Urbana - __2008__
+*	[Derek Haselhorst](http://sib.illinois.edu/peec/students/haselhorst) (IB- University of Illinois) - Graduate Student at University of Illinois- Urbana - __2008__
 
 ## Professional and Volunteer Service:
-*	__Technical Editor__: Bioinformatics Programming Using Open-Source Tools, Vince Buffalo, O’Riley Publishing - __2013-__
 *	__Manuscript Reviewer__: American Journal of Botany; Journal of Experimental Botany; Photosynthesis	Research; Plant, Cell, and Environment- __2009-__
+*	__Technical Editor__: [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do), Vince Buffalo, O’Reilley Publishing - __2013-2015__
 *	__Organizer and Leader of Graduate Student Grant Writing__: [Plants iView](http://www.igb.illinois.edu/plantsiview/) - Middle School Plant Science Outreach ; successfully obtained funding from ASPB and UIUC. __2011-2012__
 * 	__Creator__: Plant Carbon Allocation Relay Race for K-12 Science Teachers [Workshop for Ecosystem Ecology](http://www.life.illinois.edu/eew/) - __2012__
 *	[The Art of Science 2.0](http://www.igb.uiuc.edu/core/outreach) - I collaborated with an artist to blend disciplines and create art by visualizing biological processes using confocal microscopy. - __2012__
