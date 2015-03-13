@@ -15,7 +15,7 @@ image:
 *	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__
 Advisor: Dr. Andrew Leakey
 *	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
-*	B.S. Integrative Biology Minor: Chemistry, University of Illinois at Urbana-Champaign - __2007__
+*	B.S. Integrative Biology, Minor: Chemistry, University of Illinois at Urbana-Champaign - __2007__
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
@@ -90,7 +90,7 @@ Advisor: Dr. Andrew Leakey
 
 ## Professional and Volunteer Service:
 *	__Manuscript Reviewer__: American Journal of Botany; Journal of Experimental Botany; Photosynthesis	Research; Plant, Cell, and Environment- __2009-__
-*	__Technical Editor__: [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do), Vince Buffalo, O’Reilley Publishing - __2013-2015__
+*	__Technical Editor__: [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do), Vince Buffalo, O’Reilly Publishing - __2013-2015__
 *	__Organizer and Leader of Graduate Student Grant Writing__: [Plants iView](http://www.igb.illinois.edu/plantsiview/) - Middle School Plant Science Outreach ; successfully obtained funding from ASPB and UIUC. __2011-2012__
 * 	__Creator__: Plant Carbon Allocation Relay Race for K-12 Science Teachers [Workshop for Ecosystem Ecology](http://www.life.illinois.edu/eew/) - __2012__
 *	[The Art of Science 2.0](http://www.igb.uiuc.edu/core/outreach) - I collaborated with an artist to blend disciplines and create art by visualizing biological processes using confocal microscopy. - __2012__
