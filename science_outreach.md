@@ -22,7 +22,7 @@ This is a new project that I am starting with some friends in Chicago. The idea 
 I led a group of Illinois Plant Biology graduate students in creating middle school plant science curriculum to fit into an afterschool program at Urbana Middle School. As a group we wrote two successful grants to secure funding from the [ASPB Educational Foundation Grant](http://my.aspb.org/?page=EF_ProgramsResources) and the [Illinois Public Engagement Grant](http://engagement.illinois.edu/) for this project. This platform is still in use as a major outreach project for the Illinois Department of Plant Biology. All of the course materials, teacher discussion forum, and student blogs can be accessed through the [Plants iView website](http://www.igb.illinois.edu/plantsiview/lessons). We made sure that the lessons met national and Illinois specific educational standards for grades 6-8. The graduate students then taught all the lessons for the program.
 <figure>
 	<img src="/images/plantsiview_cody.jpg"></a>
-	<figcaption>Teaching a lesson and the Pollinatarium</figcaption>
+	<figcaption>Teaching a lesson at the Pollinatarium</figcaption>
 </figure>
 
 
