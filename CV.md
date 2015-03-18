@@ -81,14 +81,14 @@ Advisor: Dr. Andrew Leakey
 *	William Landel (Plant Biology- UC Davis) - __2013__
 *	Kisha Thayapran (High School Student) - [UC Davis Young Scholar](http://ysp.ucdavis.edu/) - __2013__
 *	Natalia Rodriquez (High School Student - Puerto Rico) [RAP2 Program](http://academics.aces.illinois.edu/diversity/rap2) __2012__
-*	Lauren Vosseller (Molecular and Cellular Biology- University of Illinois) - Co-Author, Graduate Student University of Illinois- Chicago - __2010-12__
+*   Lauren Vosseller (Molecular and Cellular Biology- University of Illinois) - Co-Author, Graduate Student University of Illinois- Chicago - __2010-12__
 *	Alexander Petit (History- University of Illinois) - James Scholar Program
 *	Brian Zehr (IB- University of Illinois)- [India rural eye-care network](http://www.dekhon.org/) - __2010-11__
 *	[Ryan Boyd](http://cousinslab.wsu.edu/people.php) (IB- University of Illinois) - Graduate student at Washington State University - __2009-10__
 *	Reid Strellner (IB- University of Illinois) - Co-author, Graduate student at Northwestern University - __2008-10__
 *	[Derek Haselhorst](http://sib.illinois.edu/peec/students/haselhorst) (IB- University of Illinois) - Graduate Student at University of Illinois- Urbana - __2008__
 
-## Professional and Volunteer Service:
+## Professional and Volunteer Service
 *	__Manuscript Reviewer__: American Journal of Botany; Journal of Experimental Botany; Photosynthesis	Research; Plant, Cell, and Environment- __2009-__
 *	__Technical Editor__: [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do), Vince Buffalo, O’Reilly Publishing - __2013-2015__
 *	__Organizer and Leader of Graduate Student Grant Writing__: [Plants iView](http://www.igb.illinois.edu/plantsiview/) - Middle School Plant Science Outreach ; successfully obtained funding from ASPB and UIUC. __2011-2012__
@@ -102,6 +102,9 @@ Advisor: Dr. Andrew Leakey
 *	__Threatened Species Survey__, [Grampians National Park](http://www.environment.gov.au/heritage/places/national/grampians), Victoria, Australia - __2008__
 *	International Impact, Fundraising and school building project for small Ecuadorian Indigenous communities - __2005-07__
 
+## Consulting
+*   Justin Gillis- NY Times Science Reporter __2011__ [HARVEST Article](http://www.nytimes.com/2011/06/05/science/earth/05harvest.html?_r=0)
+*   [LI-COR Environmental](http://www.licor.com/env/) __2011__ (unpaid)
 
 
 
