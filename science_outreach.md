@@ -19,7 +19,7 @@ This is a new project that I am starting with some friends in Chicago. The idea 
 
 
 ##Plants iView
-I led a group of Illinois Plant Biology graduate students in creating middle school plant science curriculum to fit into an afterschool program at Urbana Middle School. As a group we wrote two successful grants to secure funding from the [ASPB Educational Foundation Grant](http://my.aspb.org/?page=EF_ProgramsResources) and the [Illinois Public Engagement Grant](http://engagement.illinois.edu/) for this project. This platform is still in use as a major outreach project for the Illinois Department of Plant Biology. All of the course materials, teacher discussion forum, and student blogs can be accessed through the [Plants iView website](http://www.igb.illinois.edu/plantsiview/lessons). We made sure that the lessons meet national and Illinois specific educational standards for grades 6-8. The graduate students then taught all the lessons for the program.
+I led a group of Illinois Plant Biology graduate students in creating middle school plant science curriculum to fit into an afterschool program at Urbana Middle School. As a group we wrote two successful grants to secure funding from the [ASPB Educational Foundation Grant](http://my.aspb.org/?page=EF_ProgramsResources) and the [Illinois Public Engagement Grant](http://engagement.illinois.edu/) for this project. This platform is still in use as a major outreach project for the Illinois Department of Plant Biology. All of the course materials, teacher discussion forum, and student blogs can be accessed through the [Plants iView website](http://www.igb.illinois.edu/plantsiview/lessons). We made sure that the lessons met national and Illinois specific educational standards for grades 6-8. The graduate students then taught all the lessons for the program.
 <figure>
 	<img src="/images/plantsiview_cody.jpg"></a>
 	<figcaption>Teaching a lesson and the Pollinatarium</figcaption>
@@ -30,7 +30,7 @@ I led a group of Illinois Plant Biology graduate students in creating middle sch
 ##Art of Science 2.0
 I worked with a visual artist to modify and display some confocal images I had taken as part of a PhD project. They were displayed at [Indi-go gallery](http://www.indi-go-art.com/) before traveling to a few spots around Illinois. The image I am standing next to is on display in the [Beckman Institute's Center for Nutrition, Learning, and Memory](http://www.cnlm.illinois.edu/). Captions are included for a pop-sci audience. 
 
-####Arabidopsis thaliana live mitochondria and chloroplasts- Spinning disk confocal and Imaris 3D visualization
+#####Arabidopsis thaliana live mitochondria and chloroplasts- Spinning disk confocal and Imaris 3D visualization
 
 <figure>
 	<img src="/images/artofscience_cody_mitos.jpg"></a>
@@ -38,7 +38,7 @@ I worked with a visual artist to modify and display some confocal images I had t
 </figure>
 
 
-####Live palisade mesophyll cell of Arabidopsis thaliana- Zeiss LSM 700 Confocal Microscope and Imaris 3D Rendering Software
+#####Live palisade mesophyll cell of Arabidopsis thaliana- Zeiss LSM 700 Confocal Microscope and Imaris 3D Rendering Software
 
 <figure>
 	<img src="/images/artofscience_cody_palisade_mesophyll.jpg"></a>
@@ -56,11 +56,11 @@ For 2010 and 2011, I co-organized this community event with a fellow graduate st
 
 At the end of National Pollinator Week we hosted all day events that included:
 
-*    Nature walks lead by [The Prairie Monk](http://prairiemonk.org/index.html)
-*    Insect photography workshops by Scientific American Blogger [Alex Wild](http://www.alexanderwild.com/)
+*    Nature walks led by [The Prairie Monk](http://prairiemonk.org/index.html)
+*    Insect photography workshop by Scientific American Blogger [Alex Wild](http://www.alexanderwild.com/)
 *    Honey Tastings
-*    Nurturing native bee workshops
-*    Native bee identification workshops
+*    Nurturing native bee workshop
+*    Native bee identification workshop
 *    Live concert by [Duke of Uke and His Novelty Orchestra](https://www.facebook.com/dukeofukemusic)
 
 
