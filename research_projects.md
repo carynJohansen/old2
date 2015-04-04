@@ -10,7 +10,7 @@ image:
   feature: texture-feature-06.jpg
   <!-- credit: Arabidopsis contrast -->
 ---
- I am interested in how plants make metabolic tradeoffs to compete for light resources above ground while also competing for nutrient and water resources belowground. I am taking a systems genetics approach that leverages my background in whole plant physiology, metabolism, and modeling. More details to come, but here is a project outline of current post-doc projects and former projects. 
+ I am interested in how plants make metabolic tradeoffs to compete for light resources above ground while also competing for nutrient and water resources belowground. I am taking a systems genetics approach that leverages my background in whole plant physiology, metabolism, and modeling. More details to come, but here is a project outline of current post-doc projects and former projects.
 
 # Postdoc Projects
 * genotype by crowding environment eQTL mapping in B. rapa
@@ -23,14 +23,12 @@ image:
 My PhD work focused on three open questions in the plant climate change literature all involving the effects of elevated atmospheric CO2 on plants. 
 
 * CO2 Development Respiration- Arabidopsis - [paper](/pdfs/Markelz_etal_2014b.pdf)
-
 * CO2 Nitrogen Respiration- Arabidopsis - [paper](/pdfs/Markelz_etal_2014a.pdf)
-
 * CO2 Nitrogen Drought- Maize - [paper](/pdfs/Markelz_etal_2011.pdf)
 
 
 #Equipment Projects
-It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error. 
+It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology. 
 
 * Current- 3D plant digitizer. Many of these methods are coming out now! Exciting times. My implementation details soon to come. [video](https://vimeo.com/108757972)
 * Single leaf Arabidopsis respiration chamber/pipeline - Publications (see Arabidopsis thesis work)
