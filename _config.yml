@@ -1,15 +1,15 @@
 title:            
 description:      living a creative scientific life moment by moment
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:                http://rjcmarkelz.github.io/  #http://localhost:4000/
+url:                http://localhost:4000/ #http://rjcmarkelz.github.io/  
 disqus_shortname:
 
 # Owner/author information
 owner:
   name:           RJ Cody Markelz
-  avatar:         bio-photo.jpg
+  avatar:         biophoto.jpg
   bio:            "Plant Systems Biologist. I use physiology, genomics, statistics, modeling, and imaging to understand plant competition."
-  email:          rjcmarkelz@gmail.com
+  email:          markelz@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        rjcmarkelz
   facebook:
