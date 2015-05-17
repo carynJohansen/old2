@@ -33,6 +33,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Publications
+* Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__Accepted__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist.
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO2 concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO2 concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
 *	Hussain MZ, VanLoocke A, __Markelz RJC__, Leakey ADB, Ort DO, Bernacchi CJ (__2013__) Future carbon dioxide concentration decreases canopy evapotranspiration and soil water depletion by field-grown maize. Global Change Biology. 19:1572–1584. [paper](/pdfs/Hussain_etal_2013.pdf)
@@ -42,6 +43,7 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 ### Presentations
+*   __Markelz RJC__ Systems genetics in Brassica rapa provides rapid candidate gene indentification from high-throughput phenotyping data. UC Davis Postdoctoral Research Symposium-- Big Data Session. - __2015__
 *   __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN. Systems genetics of crowding tolerance in *Brassica rapa*. Plant Animal Genome. San Diego, CA. Poster Presentation. - __2015__
 *   __Markelz RJC__. Linking systems modeling and computer vision to study plant competition in *Brassica rapa*. UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. Oral Presentation. - __2014__
 *   An N, Palmer CM, Baker RL, Brock MT, __Markelz RJC__, Price K,  Maloof JN, Welch SM, and Weinig. Proximal Sensing: Experiences from Arabidopsis and *Brassica rapa*. Agronomy Society of America Annual Meeting, Long Beach, California. Oral Presentation by SM Welch. - __2014__ 
