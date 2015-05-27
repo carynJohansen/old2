@@ -47,7 +47,7 @@ Advisor: Dr. Andrew Leakey
 *   An N, Palmer CM, Baker RL, Brock MT, __Markelz RJC__, Price K,  Maloof JN, Welch SM, and Weinig. Proximal Sensing: Experiences from Arabidopsis and *Brassica rapa*. Agronomy Society of America Annual Meeting, Long Beach, California. Oral Presentation by SM Welch. - __2014__ 
 *	__Markelz RJC__. Systems biology of plant competition in *Brassica rapa*. National Science Foundation, Arlington,  VA. Oral Presentation. - __2014__
 *   Baker RL, Brock MT, Covington MF, Das S, Devisetty UK, Fung LW,  Greenham K, Lou P, Maloof JN, __Markelz RJC__, McClung CR, Nozue K, Palmer CM, Weinig C, and Welch SM. National Science Foundation, Arlington,  VA. Agroecological annotation of gene function and computational analysis of gene networks. Poster Presentation. - __2014__
-*	__Markelz RJC__, Devissety UK, Covington MF, Maloof JN. Expression and physiological quantitative trait mapping in Brassica rapa in response to crowding. ASPB Annual Meeting. Portland, OR. Poster Presentation. - __2014__
+*	__Markelz RJC__, Devissety UK, Covington MF, Maloof JN. Expression and physiological quantitative trait mapping in *Brassica rapa* in response to crowding. ASPB Annual Meeting. Portland, OR. Poster Presentation. - __2014__
 *   __Markelz RJC__ Quantitative genetic databases and eQTL mapping in *Brassica rapa*. UC Davis Postdoctoral Seminar Series. Davis, CA. Oral Presentation. - __2013__
 *	__Markelz RJC__ Connecting genotype to phenotype in Brassica rapa using statistical and computational techniques. UC Davis Plant Cell Biology Retreat. Asilomar, CA. Oral Presentation. - __2013__
 *	__Markelz RJC__, Vosseller LN, Leakey ADB: Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Keystone Symposium: Plant Abiotic Stress and Sustainable Agriculture. Taos, NM. Poster Presentation. - __2013__
@@ -105,7 +105,7 @@ Advisor: Dr. Andrew Leakey
 *	[Roots and Shoots](http://www.rootsandshoots.org/), University of Illinois Branch - __2010__
 *	__Departmental Colloquium Coordinator__: [Plant Biology Graduate Student Association](http://www.life.illinois.edu/plantbio/PBAGS.htm) - __2009-10__
 *	__Threatened Species Survey__, [Grampians National Park](http://www.environment.gov.au/heritage/places/national/grampians), Victoria, Australia - __2008__
-*	International Impact, Fundraising and school building project for small Ecuadorian Indigenous communities - __2005-07__
+*	International Impact, fund raising and school building project for small Ecuadorian Indigenous communities - __2005-07__
 
 ### Unpaid Science Consulting
 *   Justin Gillis- NY Times Science Reporter __2011__ [HARVEST Article](http://www.nytimes.com/2011/06/05/science/earth/05harvest.html?_r=0)
