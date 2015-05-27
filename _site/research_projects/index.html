@@ -139,36 +139,45 @@
   <article>
     <h1>Research Interests</h1>
     <div class="article-wrap">
-      <p>Biology is undergoing a data generating revolution with new data being generated faster than can be analyzed and fully understood in biologically meaningful ways. This is partly due to the emphasis on novel data sets rather than novel analyses and partly due to biologists being under trained in analysis, math and programming. As a biology community we should be developing models to understand the data that we already have and use the models to help us decide what experiments to do next. This theme has directed my research since I was an undergraduate. My graduate work focused on open questions in the climate change literature that also had implications for how crop and ecosystem models were parameterized/calibrated. Building on this background of plant carbon and nitrogen metabolism the current biological question I am interested in is plant competition. Specifically I am interested in how plants make metabolic trade-offs to compete for light resources above ground while also competing for nutrient and water resources below ground. To answer this question I am taking a systems genetics approach that leverages my background in whole plant physiology, metabolism, genomics and modeling. This approach allows me to scale from DNA polymorphisms to whole plant growth models. </p>
+      <h1 id="overview">Overview</h1>
+
+<p>Biology is undergoing a data generating revolution with new data being generated faster than can be analyzed and fully understood in biologically meaningful ways. This is partly due to the emphasis on novel data sets rather than novel analyses and partly due to biologists being under trained in analysis, math and programming. As a biology community we should be developing models to understand the data that we already have and use the models to help us decide what experiments to do next. This theme has directed my research since I was an undergraduate. My graduate work focused on open questions in the climate change literature that also had implications for how crop and ecosystem models were parameterized or validated. Building on this background of plant carbon and nitrogen metabolism the current biological question I am interested in is plant competition. Specifically I am interested in how plants make metabolic trade-offs to compete for light resources above ground while also competing for nutrient and water resources below ground. To answer this question I am taking a systems genetics approach that leverages my background in whole plant physiology, metabolism, genomics and modeling. This approach allows me to scale from DNA polymorphisms to whole plant growth models using Bayesian statistics as a glue allowing me to work across these scales.</p>
 
 <h1 id="postdoc-projects">Postdoc Projects</h1>
 
 <h3 id="gxe-eqtl-mapping-in-b-rapa-grown-in-crowded-environments">GxE eQTL mapping in <em>B. rapa</em> grown in crowded environments</h3>
-
-<p>The central dogma of molecular biology says DNA → RNA → Protein. Scaling the actions and interactions of proteins spatially across tissue or cell types is physiology. Scaling the actions of physiology across space and time is development. Updating the simple model to include physiology and development would look something like this: DNA → RNA → Protein → Physiology → Development. Of course there are feedbacks every step of the way, and it is hard to disentangle each of these into separate processes, but this simple conceptual model goes a long way. If there is a genomic location for these interactions explaining some of the variance observed in the physiological or developmental phenotype, then there is a QTL in that genomic location. QTL studies are conducted using genetic mapping populations where the parents of these populations are differ significantly from one another in the trait of interest. Up until recently, a majority of QTL studies have focused on traits that are the result of many proteins interacting one level of biological organization below the physiological or developmental trait. It is a large jump in biological organization to work backwards from physiology and development to DNA sequence differences. Assaying messenger RNA (mRNA) across a genetic mapping population can act as a stepping stone between the physiology and the DNA. mRNA contains rich amounts of information about the collective outputs of the cells assayed. Or to put it another way, mRNA can provide clues as to what proteins cells are planning to make given the current information from internal developmental and external environmental cues. The collection of mRNA expression is generally referred to as the gene co-expression network. I am interested in understanding the gene co-expression network and how it relates to DNA polymorphisms in one direction and physiological and developmental phenotypes in the other direction. In order to be able to do this, we not only need a good understanding of the biology, but we also need a good understanding of the ways in which these pieces of biological information fit together. I am working on the statistical techniques to connect these pieces of information in a probabilistic framework. </p>
-
-<h3 id="b-rapa-trait-database-brassica-genetic-map-and-qtl-meta-analysis"><em>B. rapa</em> trait database, Brassica genetic map, and QTL meta-analysis</h3>
-
-<p>Hard won biological data should not just sit in a lab note book or on spread sheets scattered across various machines. Sharing phenotypic data after publication should be a priority for us as a community, just like putting sequencing data into NCBI databases (<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001595">see Zamir (2013)</a>). This allows for the data to be used to ask multiple questions, for modeling, or to be analyzed using systems biology techniques. Towards all these goals I have designed a graph database to house all of published trait data from the <em>B. rapa</em> population that I am working with.</p>
-
 <figure>
-	<img src="/images/artsciencehack_summary.jpg" />
-	<figcaption>We created many art products over the four days that were digital, conceptual, sculpture, or 3D prints.</figcaption>
+	<img src="/images/trait_db.jpg" />
 </figure>
 
-<p>In collaboration with Mike Covington (who generated the SNPs), I created a saturated genetic map for this population. </p>
+<p>The central dogma of molecular biology says DNA → RNA → Protein. Scaling the actions and interactions of proteins spatially across tissue or cell types is physiology. Scaling the actions of physiology across space and time is development. Updating the simple model to include physiology and development would look something like this: DNA → RNA → Protein → Physiology → Development. Of course there are feedbacks every step of the way, and it is hard to disentangle each of these into separate processes, but this simple conceptual model goes a long way. If there is a genomic location for these interactions explaining some of the variance observed in the physiological or developmental phenotype, then there is a QTL in that genomic location. QTL studies are conducted using genetic mapping populations where the parents of these populations are differ significantly from one another in the trait of interest. Up until recently, a majority of QTL studies have focused on traits that are the result of many proteins interacting one level of biological organization below the physiological or developmental trait. It is a large jump in biological organization to work backwards from physiology and development to DNA sequence differences. Assaying messenger RNA (mRNA) across a genetic mapping population can act as a stepping stone between the physiology and the DNA. mRNA contains rich amounts of information about the collective outputs of the cells assayed. Or to put it another way, mRNA can provide clues as to what proteins cells are planning to make given the current information from internal developmental and external environmental cues. The collection of mRNA expression is generally referred to as the gene co-expression network. I am interested in understanding the gene co-expression network and how it relates to DNA polymorphisms in one direction and physiological and developmental phenotypes in the other direction. In order to be able to do this, we not only need a good understanding of the biology, but we also need a good understanding of the ways in which these pieces of biological information fit together. I am working on the statistical techniques to connect these pieces of information in a probabilistic framework. This work is in collaboration with Upendra Devissety who did the bench work using his high-throughput library preparation technique.</p>
+
+<h3 id="b-rapa-trait-database"><em>B. rapa</em> trait database</h3>
+
+<p>Hard won biological data (especially from the field) should not just sit in a lab note book or on spread sheets scattered across various machines. Sharing phenotypic data after publication should be a priority for us as a community, just like putting sequencing data into NCBI databases (<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001595">see Zamir (2013)</a>). This allows for the data to be used to ask multiple questions, for modeling, or to be analyzed using systems biology techniques. Towards all these goals I have designed a graph database to house all of published trait data, experimental meta-data, publications, gene expression data, from the <em>B. rapa</em> population that I am working with combined with all the genomic features of the reference genome. </p>
+
+<figure>
+	<img src="/images/graph_db.jpg" />
+	<figcaption>My Graph Data Model.</figcaption>
+</figure>
+
+<p>A partial realization of this work has come out of working with an undergraduate <a href="">Tiffany Ho</a> to create an interactive data visualization tool to examine co-occurrence of eQTL with physiological QTL called <a href="http://symposium.plb.ucdavis.edu/apps/qtl-visualization">QTLVisR</a>. This is still a work in progress, but the working example does a great job.</p>
+
+<p>### </p>
+
+<p>In collaboration with <a href="http://mfcovington.github.io/">Mike Covington</a> (who generated the SNPs), I created a saturated genetic map for this population that can be found <a href="https://github.com/rjcmarkelz/brassica_genetic_map_paper">here</a>. This new map, along with a Bayesian statistical approach, and my graph database, and a genomic </p>
 
 <h3 id="genetically-informed-b-rapa-physiological-growth-model">Genetically informed <em>B. rapa</em> physiological growth model</h3>
 
-<h1 id="phd-thesis-projects">PhD Thesis Projects</h1>
+<h1 id="phd-projects">PhD Projects</h1>
+
 <p>My PhD work focused on three open questions in the plant climate change literature all involving the effects of elevated atmospheric CO<sub>2</sub> on plants. </p>
 
 <h3 id="cosub2sub-development-respiration--arabidopsis---paperpdfsmarkelzetal2014bpdf">CO<sub>2</sub> Development Respiration- Arabidopsis - <a href="/pdfs/Markelz_etal_2014b.pdf">paper</a></h3>
 
-<ul>
-  <li>CO<sub>2</sub> Nitrogen Respiration- Arabidopsis - <a href="/pdfs/Markelz_etal_2014a.pdf">paper</a></li>
-  <li>CO<sub>2</sub> Nitrogen Drought- Maize - <a href="/pdfs/Markelz_etal_2011.pdf">paper</a></li>
-</ul>
+<h3 id="cosub2sub-nitrogen-respiration--arabidopsis---paperpdfsmarkelzetal2014apdf">CO<sub>2</sub> Nitrogen Respiration- Arabidopsis - <a href="/pdfs/Markelz_etal_2014a.pdf">paper</a></h3>
+
+<h3 id="cosub2sub-nitrogen-drought--maize---paperpdfsmarkelzetal2011pdf">CO<sub>2</sub> Nitrogen Drought- Maize - <a href="/pdfs/Markelz_etal_2011.pdf">paper</a></h3>
 
 <h1 id="equipment-projects">Equipment Projects</h1>
 <p>It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology. </p>
@@ -180,7 +189,7 @@
 <h4 id="custom-licor-6400-chamber-head-for-soybean-leaf-respiration---paperpdfsgillespieetal2012pdf">Custom LICOR 6400 chamber head for soybean leaf respiration - <a href="/pdfs/Gillespie_etal_2012.pdf">paper</a></h4>
 
 <h4 id="fruitfly-respiration">Fruitfly Respiration</h4>
-<p>I modified the Arabidopsis leaf chamber to accomidate little mesh bags of flys<a href="/pdfs/Walters_etal_2012.pdf">paper</a></p>
+<p>I modified the Arabidopsis leaf chamber to accommodate little mesh bags of flys<a href="/pdfs/Walters_etal_2012.pdf">paper</a></p>
 
 <h1 id="undergraduate-thesis-project">Undergraduate Thesis Project</h1>
 <p>#### How will elevated [CO<sub>2</sub>] alter soil and plant water status of the C<sub>3</sub>-crop soybean and the C<sub>4</sub>-crop maize? -<a href="/pdfs/Hussain_etal_2013.pdf">paper</a></p>
