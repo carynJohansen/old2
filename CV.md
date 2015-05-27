@@ -4,17 +4,15 @@ permalink: /CV/
 title: CV
 tagline: 
 tags: 
-modified: 02-18-2015
+modified: 05-26-2015
 comments: false
 image:
   feature: texture-feature-06.jpg
 ---
 
-### Education and Short Courses
-*   Summer Institute in Statistical Genetics, University of Washington - __2014__
+### Education
 *	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__
 Advisor: Dr. Andrew Leakey
-*	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
 *	B.S. Integrative Biology, Minor: Chemistry, University of Illinois at Urbana-Champaign - __2007__
 
 ### Grants and Awards
@@ -43,7 +41,7 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 ### Presentations
-*   __Markelz RJC__ Systems genetics in Brassica rapa provides rapid candidate gene indentification from high-throughput phenotyping data. UC Davis Postdoctoral Research Symposium-- Big Data Session. - __2015__
+*   __Markelz RJC__ Systems genetics in *Brassica rapa* provides rapid candidate gene indentification from high-throughput phenotyping data. UC Davis Postdoctoral Research Symposium-- Big Data Session. - __2015__
 *   __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN. Systems genetics of crowding tolerance in *Brassica rapa*. Plant Animal Genome. San Diego, CA. Poster Presentation. - __2015__
 *   __Markelz RJC__. Linking systems modeling and computer vision to study plant competition in *Brassica rapa*. UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. Oral Presentation. - __2014__
 *   An N, Palmer CM, Baker RL, Brock MT, __Markelz RJC__, Price K,  Maloof JN, Welch SM, and Weinig. Proximal Sensing: Experiences from Arabidopsis and *Brassica rapa*. Agronomy Society of America Annual Meeting, Long Beach, California. Oral Presentation by SM Welch. - __2014__ 
@@ -66,12 +64,17 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Sun J, __Markelz RJC__, Ort DR. Stimulated photosynthesis alters sugar and amino acid contents, lowers osmotic potential and improves water status of soybean leaves grown under free-air CO<sub>2</sub> enrichment. ASPB Annual Meeting. Merida, Mexico. Poster Presentation. - __2008__
 *	__Markelz RJC__.  How will elevated [CO<sub>2</sub>] alter soil and plant water status of the C3-crop soybean and the C4-crop maize? Proctor and Gamble Student Research Competition. Oral Presentation. - __2007__
 
-## Teaching
-*   Guest Lecturer- Plant Biology 220: Plant Developmental Biology. "QTL mapping with -omics scale data" - __2015__
-*	Lecturer and Teaching Assistant of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
-*	Teaching Assistant Graduate Level Class- Integrative Biology 440: Plants and Global Change. Developed science communication module- Students created Podcasts for primary climate change literature. - __2009__
+### Teaching
+*   Guest Instructor- BIS180L- Undergraduate Bioinformatics Lab. Genetic Networks 1: [Clustering](http://jnmaloof.github.io/BIS180L_web/2015/05/19/genetic-networks-1/), Genetic Networks 2: [Co-expression](http://jnmaloof.github.io/BIS180L_web/2015/05/21/genetic-networks-2/),  __2015__ 
+*   Guest Lecturer- Plant Biology 220: Plant Developmental Biology. [QTL mapping with -omics scale data](/pdfs/Markelz_QTL_development_lecture.pdf) - __2015__
+*	Co-instructor and Discussion Leader of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
+*	Teaching Assistant- Integrative Biology 440: Plants and Global Change. Developed science communication module- Graduate students and undergraduates created Podcasts for primary climate change literature. - __2009__
 
-## Mentoring
+### Short Courses
+*   Summer Institute in Statistical Genetics, University of Washington - __2014__
+*	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
+
+### Mentoring
 *   Shweta Dash (Biology, UC Davis) - __2015-__
 *	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
 *	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - __2014-__
@@ -90,7 +93,7 @@ Advisor: Dr. Andrew Leakey
 *	Reid Strellner (IB- University of Illinois) - Co-author, Graduate student at Northwestern University - __2008-10__
 *	[Derek Haselhorst](http://sib.illinois.edu/peec/students/haselhorst) (IB- University of Illinois) - Graduate Student at University of Illinois- Urbana - __2008__
 
-## Professional and Volunteer Service
+### Professional and Volunteer Service
 *	__Manuscript Reviewer__: American Journal of Botany; Journal of Experimental Botany; Photosynthesis	Research; Plant, Cell, and Environment- __2009-__
 *	__Technical Editor__: [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do), Vince Buffalo, O’Reilly Publishing - __2013-2015__
 *	__Organizer and Leader of Graduate Student Grant Writing__: [Plants iView](http://www.igb.illinois.edu/plantsiview/) - Middle School Plant Science Outreach ; successfully obtained funding from ASPB and UIUC. __2011-2012__
@@ -104,9 +107,9 @@ Advisor: Dr. Andrew Leakey
 *	__Threatened Species Survey__, [Grampians National Park](http://www.environment.gov.au/heritage/places/national/grampians), Victoria, Australia - __2008__
 *	International Impact, Fundraising and school building project for small Ecuadorian Indigenous communities - __2005-07__
 
-## Consulting
+### Unpaid Science Consulting
 *   Justin Gillis- NY Times Science Reporter __2011__ [HARVEST Article](http://www.nytimes.com/2011/06/05/science/earth/05harvest.html?_r=0)
-*   [LI-COR Environmental](http://www.licor.com/env/) __2011__ (unpaid)
+*   [LI-COR Environmental](http://www.licor.com/env/) __2011__ 
 
 
 
