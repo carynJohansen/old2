@@ -71,7 +71,9 @@ Advisor: Dr. Andrew Leakey
 *	Teaching Assistant- Integrative Biology 440: Plants and Global Change. Developed science communication module- Graduate students and undergraduates created Podcasts for primary climate change literature. - __2009__
 
 ### Short Courses
+*	Pathway Tools for Metabolic Modeling, SRI International - __2015__
 *   Summer Institute in Statistical Genetics, University of Washington - __2014__
+*	Computing in the Cloud: What Every Computational Life Scientist Should Know, NIMBioS, University of Tennessee - __2014__
 *	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
 
 ### Mentoring
