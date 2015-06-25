@@ -36,19 +36,22 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About Me
-    url: /about/
+    url: about
   - title: Posts
     url: /posts/
   #- title: Research Interests
   #  url: /research_interests/
-  - title: Research Projects
-    url: /research_projects/
+  - title: Postdoc Projects
+    url: postdoc_projects
   - title: CV
-    url: /CV/
+    url: CV
   - title: Publications
-    url: /publications/
+    url: publications
   - title: Science Outreach
-    url: /science_outreach/
+    url: science_outreach
+  - title: Graduate Projects
+    url: graduate_projects
+
   # - title: Hobbies
     # url: /Hobbies/
 
