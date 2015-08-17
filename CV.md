@@ -41,10 +41,11 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 ### Presentations
+*   __Markelz RJC__, Baker RL, An N, Devisetty UK, Covington MF, Welch S, Weinig C, Maloof JN. Systems genetics in *Brassica rapa* reveals genotype to phentype connections from high-throughput phenotyping data. ASPB Annual Meeting, Minneapolis, MN - __2015__
 *   __Markelz RJC__ Systems genetics in *Brassica rapa* provides rapid candidate gene identification from high-throughput phenotyping data. UC Davis Postdoctoral Research Symposium-- Big Data Session. - __2015__
-*   __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN. Systems genetics of crowding tolerance in *Brassica rapa*. Plant Animal Genome. San Diego, CA. Poster Presentation. - __2015__
+*   __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN. Systems genetics of crowding tolerance in *Brassica rapa*. Plant Animal Genome, San Diego, CA. Poster Presentation. - __2015__
 *   __Markelz RJC__. Linking systems modeling and computer vision to study plant competition in *Brassica rapa*. UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. Oral Presentation. - __2014__
-*   An N, Palmer CM, Baker RL, Brock MT, __Markelz RJC__, Price K,  Maloof JN, Welch SM, and Weinig. Proximal Sensing: Experiences from Arabidopsis and *Brassica rapa*. Agronomy Society of America Annual Meeting, Long Beach, California. Oral Presentation by SM Welch. - __2014__ 
+*   An N, Palmer CM, Baker RL, Brock MT, __Markelz RJC__, Price K,  Maloof JN, Welch SM, and Weinig. Proximal Sensing: Experiences from Arabidopsis and *Brassica rapa*. Agronomy Society of America Annual Meeting, Long Beach, CA. Oral Presentation by SM Welch. - __2014__ 
 *	__Markelz RJC__. Systems biology of plant competition in *Brassica rapa*. National Science Foundation, Arlington,  VA. Oral Presentation. - __2014__
 *   Baker RL, Brock MT, Covington MF, Das S, Devisetty UK, Fung LW,  Greenham K, Lou P, Maloof JN, __Markelz RJC__, McClung CR, Nozue K, Palmer CM, Weinig C, and Welch SM. National Science Foundation, Arlington,  VA. Agroecological annotation of gene function and computational analysis of gene networks. Poster Presentation. - __2014__
 *	__Markelz RJC__, Devissety UK, Covington MF, Maloof JN. Expression and physiological quantitative trait mapping in *Brassica rapa* in response to crowding. ASPB Annual Meeting. Portland, OR. Poster Presentation. - __2014__
@@ -70,20 +71,22 @@ Advisor: Dr. Andrew Leakey
 *	Co-instructor and Discussion Leader of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
 *	Teaching Assistant- Integrative Biology 440: Plants and Global Change. Developed science communication module- Graduate students and undergraduates created Podcasts for primary climate change literature. - __2009__
 
-### Short Courses
+### Short Courses and Workshops
+*   Merging Crop Models and Genetics, University of Florida - __2015__
 *	Pathway Tools for Metabolic Modeling, SRI International - __2015__
 *   Summer Institute in Statistical Genetics, University of Washington - __2014__
 *	Computing in the Cloud: What Every Computational Life Scientist Should Know, NIMBioS, University of Tennessee - __2014__
 *	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
 
 ### Mentoring
-*   Shweta Dash (Biology, UC Davis) - __2015-__
 *	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
-*	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - __2014-__
+*   Neije Mukherjee-Roy (Microbiology, UC Davis) - __2015-__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-__
-*   James Ta (Junior Specialist, UC Davis) - __2014-__
 *   Christina Day (Biology, UC Davis) - __2014-__
-*	Kamalpreet Sahota (Religious Studies, Biology- UC Davis) – Graduate Student Touro University - __2013-14__
+*   James Ta (Junior Specialist, UC Davis) - __2014-2015__
+*	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - Graduate Student at Cornell University - __2014-2015__
+*   Shweta Dash (Biology, UC Davis) - __2015__
+*	Kamalpreet Sahota (Religious Studies, Biology- UC Davis) – Graduate Student at Touro University - __2013-14__
 *	Navi Singh (Biology- UC Davis) - __2013-14__
 *	William Landel (Plant Biology- UC Davis) - __2013__
 *	Kisha Thayapran (High School Student) - [UC Davis Young Scholar](http://ysp.ucdavis.edu/) - __2013__
@@ -96,7 +99,7 @@ Advisor: Dr. Andrew Leakey
 *	[Derek Haselhorst](http://sib.illinois.edu/peec/students/haselhorst) (IB- University of Illinois) - Graduate Student at University of Illinois- Urbana - __2008__
 
 ### Professional and Volunteer Service
-*	__Manuscript Reviewer__: American Journal of Botany; Journal of Experimental Botany; Photosynthesis	Research; Plant, Cell, and Environment- __2009-__
+*	__Manuscript Reviewer__: eLife; American Journal of Botany; Journal of Experimental Botany; Photosynthesis	Research; Plant, Cell, and Environment- __2009-__
 *	__Technical Editor__: [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do), Vince Buffalo, O’Reilly Publishing - __2013-2015__
 *	__Organizer and Leader of Graduate Student Grant Writing__: [Plants iView](http://www.igb.illinois.edu/plantsiview/) - Middle School Plant Science Outreach ; successfully obtained funding from ASPB and UIUC. __2011-2012__
 * 	__Creator__: Plant Carbon Allocation Relay Race for K-12 Science Teachers [Workshop for Ecosystem Ecology](http://www.life.illinois.edu/eew/) - __2012__
