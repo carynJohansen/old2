@@ -10,7 +10,8 @@ image:
   feature: texture-feature-06.jpg
   <!-- credit: Arabidopsis contrast -->
 ---
-## Research Interests
+
+## Postdoc Research Interests
 
 I am generally interested in the complexities of nature and choose problems that require (at least) a paper and pencil to work out. Plants are fascinating because they integrate internal developmental program information with external environmental information in order to successfully produce viable offspring. It is also amazing that the same genotype of plant can be grown in two different environments and have very different physiology, growth and morphology as outputs. Additionally, the fact that that this plasticity is noisy, yet reproducible suggests that one can understand the complexity by modeling the components that there is evidence for. If done correctly, modeling should lead to new insights about the system that is being studied. Statistical, mechanistic, empirical, or conceptual models all have great utility in understanding complexity. Simply writing down any style of model will quickly show what is known and what is not known about the biological system under study. It is the mentally fuzzy components of the model that need more attention through background reading, conceptual or mathematical refinement, and once these boxes are checked then new experiments can be **designed**. The sheer amount of data being generated in biology is staggering. Without prior experimental design, models, and time to digest the complexity of large datasets there is little value to justify the expense in the first place. This is the importance of quality models. I use models as tools to understand the beauty and complexity of nature.
 

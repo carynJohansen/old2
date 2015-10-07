@@ -39,8 +39,10 @@ links:
     url: about
   - title: Posts
     url: posts
-  - title: Research Projects
+  - title: Postdoc Projects
     url: research_projects
+  - title: Graduate Projects
+    url: /research_projects/graduate/
   - title: CV
     url: CV
   - title: Publications
