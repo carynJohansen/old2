@@ -31,7 +31,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Publications
-* Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__Accepted__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist.
+* Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268.
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
 *	Hussain MZ, VanLoocke A, __Markelz RJC__, Leakey ADB, Ort DO, Bernacchi CJ (__2013__) Future carbon dioxide concentration decreases canopy evapotranspiration and soil water depletion by field-grown maize. Global Change Biology. 19:1572–1584. [paper](/pdfs/Hussain_etal_2013.pdf)
@@ -41,6 +41,8 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 ### Presentations
+*   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. University of Minnesota, St. Paul, MN. Oral Presentation. - __2015__
+*   __Markelz RJC__, Kliebenstein DJ, Maloof JN. Developing a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. National Science Foundation, Arlington,  VA. Poster Presentation. - __2015__
 *   __Markelz RJC__, Baker RL, An N, Devisetty UK, Covington MF, Welch S, Weinig C, Maloof JN. Systems genetics in *Brassica rapa* reveals genotype to phentype connections from high-throughput phenotyping data. ASPB Annual Meeting, Minneapolis, MN - __2015__
 *   __Markelz RJC__ Systems genetics in *Brassica rapa* provides rapid candidate gene identification from high-throughput phenotyping data. UC Davis Postdoctoral Research Symposium-- Big Data Session. - __2015__
 *   __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN. Systems genetics of crowding tolerance in *Brassica rapa*. Plant Animal Genome, San Diego, CA. Poster Presentation. - __2015__
