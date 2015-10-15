@@ -17,6 +17,7 @@ Advisor: Dr. Andrew Leakey
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
+*   PI: Developing distributed image processing pipelines for plant growth phenotyping using Docker container based Nvidia GPU Amazon EC2 instances. Amazon Web Services Reasearch Grant ($5600). __2015-2016__
 *	Collaborator: Genotyping by Sequencing and Detection of eQTLs in a Recombinant Inbred Line Population of Brassica rapa. TACC Lonestar4 Super Computer Cluster (260,000 Units). - __2013-14__
 *	PI: National Science Foundation Graduate Research Fellowship ($135,000) - __2009-12__
 *	Co-PI: Project Leader, ASPB Education Foundation Grant- Plants iView ($19,983) - __2011-12__
@@ -27,7 +28,7 @@ Advisor: Dr. Andrew Leakey
 *	PI: Francis M. and Harlie M. Clark Research Grant ($1,000) - __2009__
 *	Distinction- School of Integrative Biology. Thesis Title: “How will elevated [CO<sub>2</sub>] alter soil and plant water status of the C3-crop soybean and the C4-crop maize?” Published as part of Hussain et al. (2013). - __2007__
 
-*	Total Academic Awards: __$386,883__
+*	Total Academic Awards: __$392,483__
 
 
 ### Publications
