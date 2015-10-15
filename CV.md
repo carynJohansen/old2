@@ -17,7 +17,7 @@ Advisor: Dr. Andrew Leakey
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
-*   PI: Developing distributed image processing pipelines for plant growth phenotyping using Docker container based Nvidia GPU Amazon EC2 instances. Amazon Web Services Research Grant ($5600). __2015-2016__
+*   PI: Developing distributed image processing pipelines for plant growth phenotyping using Docker container based Nvidia GPU Amazon EC2 instances. Amazon Web Services Research Grant ($5600). - __2015-2016__
 *	Collaborator: Genotyping by Sequencing and Detection of eQTLs in a Recombinant Inbred Line Population of Brassica rapa. TACC Lonestar4 Super Computer Cluster (260,000 Units). - __2013-14__
 *	PI: National Science Foundation Graduate Research Fellowship ($135,000) - __2009-12__
 *	Co-PI: Project Leader, ASPB Education Foundation Grant- Plants iView ($19,983) - __2011-12__
@@ -33,7 +33,7 @@ Advisor: Dr. Andrew Leakey
 
 ### Publications
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
-* __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
+* __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as *Arabidopsis thaliana* leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
 *	Hussain MZ, VanLoocke A, __Markelz RJC__, Leakey ADB, Ort DO, Bernacchi CJ (__2013__) Future carbon dioxide concentration decreases canopy evapotranspiration and soil water depletion by field-grown maize. Global Change Biology. 19:1572–1584. [paper](/pdfs/Hussain_etal_2013.pdf)
 *	Walters KR, Rupassara SI, __Markelz RJC__, Leakey ADB, Muir W, Pittendrigh B (__2012__) Methamphetamine causes anorexia in Drosophila melanogaster, exhausting metabolic reserves and contributing to mortality. The Journal of Toxicological Sciences. 4:773-790. [paper](/pdfs/Walters_etal_2012.pdf)
