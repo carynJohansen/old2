@@ -42,6 +42,7 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 ### Presentations
+*   __Markelz RJC__, Mukherjee S, Runcie D. A bayesian hierarchical sparse factor model for complex experiments in genetical genomics. Probabilistic Modeling in Genomics, CSHL, NY. Poster Presentation by Runcie D. - __2015__
 *   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. University of Minnesota, St. Paul, MN. Oral Presentation. - __2015__
 *   __Markelz RJC__, Kliebenstein DJ, Maloof JN. Developing a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. National Science Foundation, Arlington,  VA. Poster Presentation. - __2015__
 *   __Markelz RJC__, Baker RL, An N, Devisetty UK, Covington MF, Welch S, Weinig C, Maloof JN. Systems genetics in *Brassica rapa* reveals genotype to phentype connections from high-throughput phenotyping data. ASPB Annual Meeting, Minneapolis, MN - __2015__
