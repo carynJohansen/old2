@@ -17,7 +17,7 @@ Advisor: Dr. Andrew Leakey
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
-*   PI: Developing distributed image processing pipelines for plant growth phenotyping using Docker container based Nvidia GPU Amazon EC2 instances. Amazon Web Services Research Grant ($5600). - __2015-2016__
+*   PI: Developing distributed image processing pipelines for plant growth phenotyping using Docker container based NVIDIA GPU Amazon EC2 instances. Amazon Web Services Research Grant ($5600). - __2015-2016__
 *	Collaborator: Genotyping by Sequencing and Detection of eQTLs in a Recombinant Inbred Line Population of Brassica rapa. TACC Lonestar4 Super Computer Cluster (260,000 Units). - __2013-14__
 *	PI: National Science Foundation Graduate Research Fellowship ($135,000) - __2009-12__
 *	Co-PI: Project Leader, ASPB Education Foundation Grant- Plants iView ($19,983) - __2011-12__
@@ -42,7 +42,7 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 ### Presentations
-*   __Markelz RJC__, Mukherjee S, Runcie D. A bayesian hierarchical sparse factor model for complex experiments in genetical genomics. Probabilistic Modeling in Genomics, CSHL, NY. Poster Presentation by Runcie D. - __2015__
+*   __Markelz RJC__, Mukherjee S, Runcie DR. A bayesian hierarchical sparse factor model for complex experiments in genetical genomics. Probabilistic Modeling in Genomics, CSHL, NY. Poster Presentation by Runcie DR. - __2015__
 *   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. University of Minnesota, St. Paul, MN. Oral Presentation. - __2015__
 *   __Markelz RJC__, Kliebenstein DJ, Maloof JN. Developing a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. National Science Foundation, Arlington,  VA. Poster Presentation. - __2015__
 *   __Markelz RJC__, Baker RL, An N, Devisetty UK, Covington MF, Welch S, Weinig C, Maloof JN. Systems genetics in *Brassica rapa* reveals genotype to phentype connections from high-throughput phenotyping data. ASPB Annual Meeting, Minneapolis, MN - __2015__
@@ -85,7 +85,7 @@ Advisor: Dr. Andrew Leakey
 ### Mentoring
 *	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-__
-*   Christina Day (Biology, UC Davis) - __2014-__
+*   Christina Day (Biology, UC Davis) - __2013-__
 *   Neije Mukherjee-Roy (Microbiology, UC Davis) - __2015__
 *   James Ta (Junior Specialist, UC Davis) - Graduate Student Biophysics UC Davis __2014-2015__ 
 *	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - Graduate Student at Cornell University - __2014-2015__
