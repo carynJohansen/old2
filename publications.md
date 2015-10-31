@@ -4,11 +4,12 @@ permalink: /publications/
 title: Publications
 tagline: 
 tags: 
-modified: 07-01-2014
+modified: 10-30-2015
 comments: false
 image:
   feature: texture-feature-06.jpg
 ---
+* Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (*in review*) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology.
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
@@ -17,3 +18,6 @@ image:
 *	Gillespie KM, Xu F, Richter KT, McGrath JM, __Markelz RJC__, Ort DR, Leakey DB, Ainsworth EA (__2012__) Greater Antioxidant and Respiratory Metabolism in Field-Grown Soybean Exposed to Elevated O3 Under Both Ambient and Elevated CO<sub>2</sub> Concentrations. Plant, Cell, and Environment. 35:164-184. [paper](/pdfs/Gillespie_etal_2012.pdf)
 *	__Markelz RJC__, Strellner RS, Leakey ADB (__2011__) Impairment of C<sub>4</sub> photosynthesis by drought is exacerbated by limiting nitrogen and ameliorated by elevated [CO<sub>2</sub>] in maize. Journal of Experimental Botany. 62:3235-3246. [paper](/pdfs/Markelz_etal_2011.pdf)
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
+* __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
+* __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
+* Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.

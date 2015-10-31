@@ -32,6 +32,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Publications
+* Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (*in review*) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology.
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as *Arabidopsis thaliana* leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
@@ -40,9 +41,12 @@ Advisor: Dr. Andrew Leakey
 *	Gillespie KM, Xu F, Richter KT, McGrath JM, __Markelz RJC__, Ort DR, Leakey DB, Ainsworth EA (__2012__) Greater Antioxidant and Respiratory Metabolism in Field-Grown Soybean Exposed to Elevated O3 Under Both Ambient and Elevated CO<sub>2</sub> Concentrations. Plant, Cell, and Environment. 35:164-184. [paper](/pdfs/Gillespie_etal_2012.pdf)
 *	__Markelz RJC__, Strellner RS, Leakey ADB (__2011__) Impairment of C4 photosynthesis by drought is exacerbated by limiting nitrogen and ameliorated by elevated [CO<sub>2</sub>] in maize. Journal of Experimental Botany. 62:3235-3246. [paper](/pdfs/Markelz_etal_2011.pdf)
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
+* __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
+* __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
+* Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
 
 ### Presentations
-*   __Markelz RJC__, Mukherjee S, Runcie DR. A bayesian hierarchical sparse factor model for complex experiments in genetical genomics. Probabilistic Modeling in Genomics, CSHL, NY. Poster Presentation by Runcie DR. - __2015__
+*   __Markelz RJC__, Mukherjee S, Runcie DR. A Bayesian hierarchical sparse factor model for complex experiments in genetical genomics. Probabilistic Modeling in Genomics, CSHL, NY. Poster Presentation by Runcie DR. - __2015__
 *   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. University of Minnesota, St. Paul, MN. Oral Presentation. - __2015__
 *   __Markelz RJC__, Kliebenstein DJ, Maloof JN. Developing a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. National Science Foundation, Arlington,  VA. Poster Presentation. - __2015__
 *   __Markelz RJC__, Baker RL, An N, Devisetty UK, Covington MF, Welch S, Weinig C, Maloof JN. Systems genetics in *Brassica rapa* reveals genotype to phentype connections from high-throughput phenotyping data. ASPB Annual Meeting, Minneapolis, MN - __2015__
