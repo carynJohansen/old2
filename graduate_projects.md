@@ -4,7 +4,7 @@ permalink: /research_projects/graduate/
 title: Graduate Projects
 tagline: 
 tags: 
-modified: 07-13-2015
+modified: 10-30-2015
 comments: false
 image:
   feature: texture-feature-06.jpg

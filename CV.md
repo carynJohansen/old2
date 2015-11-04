@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 tagline: 
 tags: 
-modified: 05-26-2015
+modified: 10-30-2015
 comments: false
 image:
   feature: texture-feature-06.jpg
