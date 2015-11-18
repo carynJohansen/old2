@@ -4,13 +4,105 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000//feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2015-10-07T16:34:03-07:00</updated>
+<updated>2015-11-18T12:52:12-08:00</updated>
 <id>http://localhost:4000//</id>
 <author>
   <name>RJ Cody Markelz</name>
   <uri>http://localhost:4000//</uri>
   <email>markelz@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Trello for Lab and Project Management]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000//Trello/" />
+  <id>http://localhost:4000//Trello</id>
+  <published>2015-11-18T00:00:00-08:00</published>
+  <updated>2015-11-18T00:00:00-08:00</updated>
+  <author>
+    <name>RJ Cody Markelz</name>
+    <uri>http://localhost:4000/</uri>
+    <email>markelz@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;motivation&quot;&gt;Motivation&lt;/h1&gt;
+&lt;p&gt;This quick post is an example of my scientific and collaboration work flow using the free features of &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;. I have tried many different ways of organizing ideas and implementing &lt;a href=&quot;https://en.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;. Email is &lt;strong&gt;NOT&lt;/strong&gt; a good way to organize projects, especially long term ones. Elaborate tag systems can help, but I found that it is more hassle than its worth when there are other tools available.  For a while I used &lt;a href=&quot;http://www.thesecretweapon.org/&quot;&gt;The Secret Weapon&lt;/a&gt;. Even if you do not use TSW system you should still take a look at these videos to get into that mindset. However, I was spending too much time sending emails to people instead of creating new things. Trello is a much better option because it adds a great collaboration component along with a really nice visual way to think about projects. It is browser based and I recommend that you use Chrome because it has some nice Add-ons for Trello. Here is a rapid introduction to my work flow with ideas taken from GTD and TSW.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/images/1_trello_board.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;FIGURE 1&lt;/strong&gt; Trello data has a hierarchy going Organizations –&amp;gt; Boards –&amp;gt; Lists –&amp;gt; Cards. Figure 1 is looking at a board I made for this tutorial.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Here is where all your boards you are associated with are located.&lt;/li&gt;
+  &lt;li&gt;Search board for specific items or data.&lt;/li&gt;
+  &lt;li&gt;Open-source Trello time tracking app &lt;a href=&quot;http://www.plusfortrello.com/p/about.html&quot;&gt;Plus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alerts. Will turn red when someone messages you or there is a change is made to a project you are “watching”. More on watching later.&lt;/li&gt;
+  &lt;li&gt;Boards are organized into Lists. &lt;/li&gt;
+  &lt;li&gt;Individual Cards are attached to Lists and can be moved around between Lists.&lt;/li&gt;
+  &lt;li&gt;Cards can have many things associated with them including due dates, people working on them, attachments etc. More on this in Figure 2.&lt;/li&gt;
+  &lt;li&gt;My general workflow is I have Lists consisting of GOALS, TO DO, DOING, DONE, and ONGOING. Cards move from right to left for each day. If it is a one off task then it gets moved to DONE and eventually archived. If it is part of a larger project then it gets moved to ONGOING when completed because the card might be used again for the same project. Cards only go into DOING if you actively working on them. This helps me focus and use the time tracking for this task.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/images/2_back_of_card.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;FIGURE 2&lt;/strong&gt; When you click on a card it flips it over for more details on the “back” of the card.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Members associated with the card. Excellent for collaboration and who is responsible for items on the card.&lt;/li&gt;
+  &lt;li&gt;Color labels to help visually orient you in boards with many cards.&lt;/li&gt;
+  &lt;li&gt;Due dates. The can sink with google calender. &lt;/li&gt;
+  &lt;li&gt;Card description. Usually I keep this sparse. &lt;/li&gt;
+  &lt;li&gt;Checklists. Shows progress for each item. Cards can have multiple checklists.&lt;/li&gt;
+  &lt;li&gt;Plus time tracking for each card. Click this to start timer working on this card. &lt;/li&gt;
+  &lt;li&gt;Comments is where I update progress post working on the project associated with this card. I generally include what I did and what should be done the next hour of work on this project. This helps when picking the project back up after a while. Attach items (.csv, images, papers, etc.) to the card using your hard drive, Dropbox, Google Drive, or from a weblink. Integrates youtube videos for example.&lt;/li&gt;
+  &lt;li&gt;Referring to cards within boards with the link to the card. Also useful is an email address for each card. Attach that address when dealing with email and it will forward to the card.&lt;/li&gt;
+  &lt;li&gt;Comments are great for communicating because you can tag people by their user name.&lt;/li&gt;
+  &lt;li&gt;All the items on this card are tracked. Not only comments, but also movements between lists. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/images/3_trello_menu.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;FIGURE 3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Click on the menu bar where you will see a history of the entire board along with some options.&lt;/li&gt;
+  &lt;li&gt;Add members to the board.&lt;/li&gt;
+  &lt;li&gt;You can filter the cards you see by their color tag. This helps if it gets too crazy on a board. Also here is where you add the calender integration and card aging power ups. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/images/4_personal_projects.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;FIGURE 4&lt;/strong&gt; Here is a reduced view of my personal project board. &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Plus time tracking. Click here for time spent on each board, reports, and all these other awesome features of how you spend your time.&lt;/li&gt;
+  &lt;li&gt;View the board as a calender with all the due dates displayed.&lt;/li&gt;
+  &lt;li&gt;Timing is only on for current task: Trello Tutorial on my Website card. &lt;/li&gt;
+  &lt;li&gt;Card aging. A nice visual way to see what projects you have not touched for a while. This helps when reviewing goals and prioritizing the week. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/images/5_lab_notebooks.jpg&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;FIGURE 5&lt;/strong&gt; This is what a collaborative board looks like. This is my undergrad’s lab notebooks and is organized a little differently than my personal work flow. Digital is nice because it is searchable. At the end of the quarter paper notebooks are scanned and attached to the notebook cards. This is where Trello really shines because it is flexible in communication and what can be associated with each card. For example, I take pictures of ideas in notebooks and white boards to post to Trello with some key words that make these ideas searchable.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Individual student lab notebooks.&lt;/li&gt;
+  &lt;li&gt;Collaborative learning projects we are working on.&lt;/li&gt;
+  &lt;li&gt;Announcements for goals, expectations, etc. &lt;/li&gt;
+  &lt;li&gt;Resources. Comes in handy when new undergrad joins to get them up to speed quickly.&lt;/li&gt;
+  &lt;li&gt;Grants and longer term goals. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;backups&quot;&gt;Backups&lt;/h3&gt;
+&lt;p&gt;I backup my trello data once a week into a private repository using this &lt;a href=&quot;https://github.com/mattab/trello-backup&quot;&gt;script&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000//Trello/&quot;&gt;Trello for Lab and Project Management&lt;/a&gt; was originally published by RJ Cody Markelz at &lt;a href=&quot;http://localhost:4000/&quot;&gt;&lt;/a&gt; on November 18, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
