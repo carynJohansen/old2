@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000//feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2015-11-18T13:48:20-08:00</updated>
+<updated>2015-11-18T14:00:37-08:00</updated>
 <id>http://localhost:4000//</id>
 <author>
   <name>RJ Cody Markelz</name>
@@ -25,7 +25,7 @@
     <email>markelz@gmail.com</email>
   </author>
   <content type="html">&lt;h1 id=&quot;motivation&quot;&gt;Motivation&lt;/h1&gt;
-&lt;p&gt;This quick post is an example of my scientific and collaboration work flow using the free features of &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;. I have tried many different ways of organizing ideas and implementing &lt;a href=&quot;https://en.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;. Email is &lt;strong&gt;NOT&lt;/strong&gt; a good way to organize projects, especially long term ones. Elaborate tag systems can help, but I found that it is more hassle than its worth when there are other tools available.  For a while I used &lt;a href=&quot;http://www.thesecretweapon.org/&quot;&gt;The Secret Weapon&lt;/a&gt;. Even if you do not use TSW system you should still take a look at these videos to get into that mindset. However, I was spending too much time sending emails to people instead of creating new things. Trello is a much better option because it adds a great collaboration component along with a really nice visual way to think about projects. It is browser based and I recommend that you use Chrome because it has some nice Add-ons for Trello. Here is a rapid introduction to my work flow with ideas taken from GTD and TSW.&lt;/p&gt;
+&lt;p&gt;This quick post is an example of my scientific and collaboration work flow using the free features of &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;. I have tried many different ways of organizing ideas and implementing &lt;a href=&quot;https://en.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;. Email is &lt;strong&gt;NOT&lt;/strong&gt; a good way to organize projects, especially long term ones. Elaborate tag systems can help, but I found that it is more hassle than its worth when there are other tools available.  For a while I used &lt;a href=&quot;http://www.thesecretweapon.org/&quot;&gt;The Secret Weapon&lt;/a&gt;. Even if you do not use TSW system you should still take a look at these videos to get into that mindset. However, I was spending too much time sending emails to people instead of creating new things. Trello is a much better option because it adds a great collaboration component along with a visual way to organize projects. It is browser based and I recommend that you use Chrome because it has some nice Add-ons for Trello. Here is a rapid introduction to my work flow with ideas taken from GTD and TSW.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/images/1_trello_board.jpg&quot; /&gt;
@@ -102,6 +102,9 @@
 
 &lt;h3 id=&quot;file-sharing&quot;&gt;File Sharing&lt;/h3&gt;
 &lt;p&gt;We have joint Box accounts through our university for file sharing. No need to attach huge items to cards. Just link them to shared storage. These shared folders are also where all the boards are backed up and version controlled.&lt;/p&gt;
+
+&lt;h3 id=&quot;ios-support&quot;&gt;iOS Support&lt;/h3&gt;
+&lt;p&gt;Trello has an iOS App that I use to check up on things, send small messages, and add notes on the go.&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000//Trello/&quot;&gt;Trello for Lab and Project Management&lt;/a&gt; was originally published by RJ Cody Markelz at &lt;a href=&quot;http://localhost:4000/&quot;&gt;&lt;/a&gt; on November 18, 2015.&lt;/p&gt;</content>
