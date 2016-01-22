@@ -32,6 +32,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Publications
+* An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (*submitted*) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
 * Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (*in review*) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology.
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as *Arabidopsis thaliana* leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
