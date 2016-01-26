@@ -46,10 +46,9 @@ Advisor: Dr. Andrew Leakey
 * __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
 * Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
 
-i### Presentations
+### Presentations
 *   __Markelz RJC__, Mukherjee S, Runcie DR. A Bayesian hierarchical sparse factor model for complex experiments in genetical genomics. Probabilistic Modeling in Genomics, CSHL, NY. Poster Presentation by Runcie DR. - __2015__
-*   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. UC Davis Plant Cell Biology Retreat. Davis, CA Oral Presentation. - __2015__               
-3      Presentation. - __2015__ 
+*   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. UC Davis Plant Cell Biology Retreat. Davis, CA Oral Presentation. - __2015__ 
 *   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. University of Minnesota, St. Paul, MN. Oral Presentation. - __2015__
 *   __Markelz RJC__, Kliebenstein DJ, Maloof JN. Developing a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. National Science Foundation, Arlington,  VA. Poster Presentation. - __2015__
 *   __Markelz RJC__, Baker RL, An N, Devisetty UK, Covington MF, Welch S, Weinig C, Maloof JN. Systems genetics in *Brassica rapa* reveals genotype to phentype connections from high-throughput phenotyping data. ASPB Annual Meeting, Minneapolis, MN - __2015__
