@@ -53,11 +53,8 @@ Advisor: Dr. Andrew Leakey
 
 ### Invited Talks
 * Whole plant systems biology: a *Brassica rapa* exemplar (__2016__). Plant Research Lab- Michigan State University. East Lansing, MI.
-
 * Connecting genotype to phenotype in *Brassica rapa* using statistical and computational techniques (__2015__). University of Minnesota, St. Paul, MN.
-
 * Systems biology of plant competition in *Brassica rapa* (__2014__). Plant Genome Research Program- National Science Foundation. Arlington, VA. 
-
 * Adapting crops to global climate change (__2009__). Darwin 200: A South American celebration. Maldonado, Uruguay.
 
 
@@ -68,7 +65,7 @@ Advisor: Dr. Andrew Leakey
 * UC Davis Postdoctoral Seminar Series. Davis, CA. - __2013__
 * UC Davis Plant Cell Biology Retreat. Asilomar, CA. - __2013__
 * ASPB Annual Meeting. Austin, TX. - __2012__
-* Graduate Students in Ecology and Evolutionary Biology Symposium, UIUC, Urbana, Illinois. - __2010__
+* UIUC Graduate Students in Ecology and Evolutionary Biology Symposium, Urbana, Illinois. - __2010__
 * Proctor and Gamble Student Research Competition. Urbana, IL. - __2007__
 
 
