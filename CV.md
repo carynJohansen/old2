@@ -45,50 +45,50 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 
-### Publications In-preperation
+### Publications In-preparation
 * __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
 * __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
 * Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
 
 
 ### Invited Talks
-Whole plant systems biology: a *Brassica rapa* exemplar (__2016__). Plant Research Lab- Michigan State University. East Lansing, MI.
+* Whole plant systems biology: a *Brassica rapa* exemplar (__2016__). Plant Research Lab- Michigan State University. East Lansing, MI.
 
-Connecting genotype to phenotype in *Brassica rapa* using statistical and computational techniques (__2015__). University of Minnesota, St. Paul, MN.
+* Connecting genotype to phenotype in *Brassica rapa* using statistical and computational techniques (__2015__). University of Minnesota, St. Paul, MN.
 
-Systems biology of plant competition in *Brassica rapa* (__2014__). Plant Genome Research Program- National Science Foundation. Arlington, VA. 
+* Systems biology of plant competition in *Brassica rapa* (__2014__). Plant Genome Research Program- National Science Foundation. Arlington, VA. 
 
-Adapting crops to global climate change (__2009__). Darwin 200: A South American celebration. Maldonado, Uruguay.
+* Adapting crops to global climate change (__2009__). Darwin 200: A South American celebration. Maldonado, Uruguay.
 
 
 ### Contributed Talks
-UC Davis Postdoctoral Research Symposium-- Big Data Session. Davis, CA. - __2015__
-UC Davis Plant Cell Biology Retreat. Davis, CA. - __2015__ 
-UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. - __2014__
-UC Davis Postdoctoral Seminar Series. Davis, CA. - __2013__
-UC Davis Plant Cell Biology Retreat. Asilomar, CA. - __2013__
-ASPB Annual Meeting. Austin, TX. - __2012__
-Graduate Students in Ecology and Evolutionary Biology Symposium, UIUC, Urbana, Illinois. - __2010__
-Proctor and Gamble Student Research Competition. Urbana, IL. - __2007__
+* UC Davis Postdoctoral Research Symposium-- Big Data Session. Davis, CA. - __2015__
+* UC Davis Plant Cell Biology Retreat. Davis, CA. - __2015__ 
+* UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. - __2014__
+* UC Davis Postdoctoral Seminar Series. Davis, CA. - __2013__
+* UC Davis Plant Cell Biology Retreat. Asilomar, CA. - __2013__
+* ASPB Annual Meeting. Austin, TX. - __2012__
+* Graduate Students in Ecology and Evolutionary Biology Symposium, UIUC, Urbana, Illinois. - __2010__
+* Proctor and Gamble Student Research Competition. Urbana, IL. - __2007__
 
 
 ### Contributed Posters
-Probabilistic Modeling in Genomics, CSHL, NY. - __2015__
-National Science Foundation, Arlington,  VA.  - __2015__
-ASPB Annual Meeting, Minneapolis, MN - __2015__
-Plant Animal Genome, San Diego, CA. Poster Presentation. - __2015__
-National Science Foundation, Arlington,  VA. - __2014__
-ASPB Annual Meeting. Portland, OR. Poster- __2014__
-Keystone Symposium: Plant Abiotic Stress and Sustainable Agriculture. Taos, NM. - __2013__
-ASPB Annual Meeting. Austin, TX. - __2012__
-World Crop FACE Workshop, Tsukuba, Japan. - __2012__
-University of Illinois Public Engagement Symposium: Transforming Our Society. Champaign, IL. - __2012__
-8th Okazaki Biology Conference, Okazaki, Japan.- __2012__
-UIUC Plant Biology Departmental Fall Welcome. Urbana, IL. - __2011__
-Institute for Genomic Biology Fellows Symposium. Poster Presentation. - __2011__
-Plant respiration and climate change. Oxford, United Kingdom. - __2010__
-ASPB Annual Meeting. Honolulu, Hawaii. - __2009__
-ASPB Annual Meeting. Merida, Mexico. - __2008__
+* Probabilistic Modeling in Genomics, CSHL, NY. - __2015__
+* National Science Foundation, Arlington,  VA.  - __2015__
+* ASPB Annual Meeting, Minneapolis, MN - __2015__
+* Plant Animal Genome, San Diego, CA. Poster Presentation. - __2015__
+* National Science Foundation, Arlington,  VA. - __2014__
+* ASPB Annual Meeting. Portland, OR. Poster- __2014__
+* Keystone Symposium: Plant Abiotic Stress and Sustainable Agriculture. Taos, NM. - __2013__
+* ASPB Annual Meeting. Austin, TX. - __2012__
+* World Crop FACE Workshop, Tsukuba, Japan. - __2012__
+* University of Illinois Public Engagement Symposium: Transforming Our Society. Champaign, IL. - __2012__
+* 8th Okazaki Biology Conference, Okazaki, Japan.- __2012__
+* UIUC Plant Biology Departmental Fall Welcome. Urbana, IL. - __2011__
+* Institute for Genomic Biology Fellows Symposium. Poster Presentation. - __2011__
+* Plant respiration and climate change. Oxford, United Kingdom. - __2010__
+* ASPB Annual Meeting. Honolulu, Hawaii. - __2009__
+* ASPB Annual Meeting. Merida, Mexico. - __2008__
 
 
 ### Teaching
