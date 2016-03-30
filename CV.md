@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 tagline: 
 tags: 
-modified: 10-30-2015
+modified: 04-29-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
@@ -14,6 +14,7 @@ image:
 *	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__
 Advisor: Dr. Andrew Leakey
 *	B.S. Integrative Biology, Minor: Chemistry, University of Illinois at Urbana-Champaign - __2007__
+
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
@@ -31,8 +32,8 @@ Advisor: Dr. Andrew Leakey
 *	Total Academic Awards: __$392,483__
 
 
-### Publications
-* An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (*submitted*) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
+### Peer Reviewed Publications
+* An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (*in-review*) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
 * Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (*in-press*) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology.
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as *Arabidopsis thaliana* leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
@@ -42,41 +43,56 @@ Advisor: Dr. Andrew Leakey
 *	Gillespie KM, Xu F, Richter KT, McGrath JM, __Markelz RJC__, Ort DR, Leakey DB, Ainsworth EA (__2012__) Greater Antioxidant and Respiratory Metabolism in Field-Grown Soybean Exposed to Elevated O3 Under Both Ambient and Elevated CO<sub>2</sub> Concentrations. Plant, Cell, and Environment. 35:164-184. [paper](/pdfs/Gillespie_etal_2012.pdf)
 *	__Markelz RJC__, Strellner RS, Leakey ADB (__2011__) Impairment of C4 photosynthesis by drought is exacerbated by limiting nitrogen and ameliorated by elevated [CO<sub>2</sub>] in maize. Journal of Experimental Botany. 62:3235-3246. [paper](/pdfs/Markelz_etal_2011.pdf)
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
+
+
+### Publications In-preperation
 * __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
 * __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
 * Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
 
-### Presentations
-*   __Markelz RJC__, Mukherjee S, Runcie DR. A Bayesian hierarchical sparse factor model for complex experiments in genetical genomics. Probabilistic Modeling in Genomics, CSHL, NY. Poster Presentation by Runcie DR. - __2015__
-*   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. UC Davis Plant Cell Biology Retreat. Davis, CA Oral Presentation. - __2015__ 
-*   __Markelz RJC__. Connecting genotype to phenotype in *Brassica rapa* using statistical and computational tools. University of Minnesota, St. Paul, MN. Oral Presentation. - __2015__
-*   __Markelz RJC__, Kliebenstein DJ, Maloof JN. Developing a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. National Science Foundation, Arlington,  VA. Poster Presentation. - __2015__
-*   __Markelz RJC__, Baker RL, An N, Devisetty UK, Covington MF, Welch S, Weinig C, Maloof JN. Systems genetics in *Brassica rapa* reveals genotype to phentype connections from high-throughput phenotyping data. ASPB Annual Meeting, Minneapolis, MN - __2015__
-*   __Markelz RJC__ Systems genetics in *Brassica rapa* provides rapid candidate gene identification from high-throughput phenotyping data. UC Davis Postdoctoral Research Symposium-- Big Data Session. - __2015__
-*   __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN. Systems genetics of crowding tolerance in *Brassica rapa*. Plant Animal Genome, San Diego, CA. Poster Presentation. - __2015__
-*   __Markelz RJC__. Linking systems modeling and computer vision to study plant competition in *Brassica rapa*. UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. Oral Presentation. - __2014__
-*   An N, Palmer CM, Baker RL, Brock MT, __Markelz RJC__, Price K,  Maloof JN, Welch SM, and Weinig. Proximal Sensing: Experiences from Arabidopsis and *Brassica rapa*. Agronomy Society of America Annual Meeting, Long Beach, CA. Oral Presentation by SM Welch. - __2014__ 
-*	__Markelz RJC__. Systems biology of plant competition in *Brassica rapa*. National Science Foundation, Arlington,  VA. Oral Presentation. - __2014__
-*   Baker RL, Brock MT, Covington MF, Das S, Devisetty UK, Fung LW,  Greenham K, Lou P, Maloof JN, __Markelz RJC__, McClung CR, Nozue K, Palmer CM, Weinig C, and Welch SM. National Science Foundation, Arlington,  VA. Agroecological annotation of gene function and computational analysis of gene networks. Poster Presentation. - __2014__
-*	__Markelz RJC__, Devissety UK, Covington MF, Maloof JN. Expression and physiological quantitative trait mapping in *Brassica rapa* in response to crowding. ASPB Annual Meeting. Portland, OR. Poster Presentation. - __2014__
-*   __Markelz RJC__ Quantitative genetic databases and eQTL mapping in *Brassica rapa*. UC Davis Postdoctoral Seminar Series. Davis, CA. Oral Presentation. - __2013__
-*	__Markelz RJC__ Connecting genotype to phenotype in Brassica rapa using statistical and computational techniques. UC Davis Plant Cell Biology Retreat. Asilomar, CA. Oral Presentation. - __2013__
-*	__Markelz RJC__, Vosseller LN, Leakey ADB: Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Keystone Symposium: Plant Abiotic Stress and Sustainable Agriculture. Taos, NM. Poster Presentation. - __2013__
-*	__Markelz RJC__ The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. ASPB Annual Meeting. Austin, TX. Oral Presentation and Poster Presentation. - __2012__
-*	__Markelz RJC__, Lai LX, Leakey ADB. The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. World Crop FACE Workshop, Tsukuba, Japan. Poster Presentation. - __2012__
-*	Peery R, Segura M, __Markelz RJC__, Kelly R, Gray S, Leisner C, Han J, Slattery R, Hug B, Leakey ADB. Plants iView: an outreach program in plant biology for middle school students. University of Illinois Public Engagement Symposium: Transforming Our Society. Champaign, IL. Poster Presentation. - __2012__
-*	__Markelz RJC__, Lai LX, Leakey ADB. The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. 8th Okazaki Biology Conference, Japan. Poster Presentation. - __2012__
-*	__Markelz RJC__, Lai LX, Leakey ADB. Limiting N supply diminishes, but does not eliminate, the stimulation of leaf respiration by elevated [CO<sub>2</sub>]. UIUC Plant Biology Departmental Fall Welcome. Poster Presentation. - __2011__
-*	__Markelz RJC__, Strellner RS, Leakey ADB. Impairment of C4 photosynthesis by drought is exacerbated by limiting nitrogen and ameliorated by elevated [CO<sub>2</sub>] in maize. Institute for Genomic Biology Fellows Symposium. Poster Presentation. - __2011__
-*	Boyd RA, __Markelz RJC__, Leakey ADB. Are there genes essential for the stimulation of respiration and growth when plants are grown at elevated CO<sub>2</sub> concentrations? Plant respiration and climate change. Oxford, United Kingdom.  Poster Presentation. - __2010__
-*	__Markelz RJC__. How will drought alter maize photosynthesis under limiting N availability and elevated [CO<sub>2</sub>]? Graduate Students in Ecology and Evolutionary Biology Symposium, University of Illinois Urbana-Champaign, Urbana, Illinois. Oral Presentation. - __2010__
-* 	Leakey ADB, Boyd R, __Markelz RJC__. Adapting crops to global climate change. Darwin 200: A South American celebration. Punta del Este, Maldonado, Uruguay. Oral Presentation. - __2009__
-*	__Markelz RJC__, Strellner RS, Leakey ADB. How will limiting N availability alter the response of C4 photosynthesis in maize under elevated [CO<sub>2</sub>] and drought under open-air field conditions? ASPB Annual Meeting. Honolulu, Hawaii. Poster Presentation. - __2009__
-*	Leakey ADB, Sun J, __Markelz RJC__, Ort DR. Stimulated photosynthesis alters sugar and amino acid contents, lowers osmotic potential and improves water status of soybean leaves grown under free-air CO<sub>2</sub> enrichment. ASPB Annual Meeting. Merida, Mexico. Poster Presentation. - __2008__
-*	__Markelz RJC__.  How will elevated [CO<sub>2</sub>] alter soil and plant water status of the C3-crop soybean and the C4-crop maize? Proctor and Gamble Student Research Competition. Oral Presentation. - __2007__
+
+### Invited Talks
+Whole plant systems biology: a *Brassica rapa* exemplar (__2016__). Plant Research Lab- Michigan State University. East Lansing, MI.
+
+Connecting genotype to phenotype in *Brassica rapa* using statistical and computational techniques (__2015__). University of Minnesota, St. Paul, MN.
+
+Systems biology of plant competition in *Brassica rapa* (__2014__). Plant Genome Research Program- National Science Foundation. Arlington, VA. 
+
+Adapting crops to global climate change (__2009__). Darwin 200: A South American celebration. Maldonado, Uruguay.
+
+
+### Contributed Talks
+UC Davis Postdoctoral Research Symposium-- Big Data Session. Davis, CA. - __2015__
+UC Davis Plant Cell Biology Retreat. Davis, CA. - __2015__ 
+UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. - __2014__
+UC Davis Postdoctoral Seminar Series. Davis, CA. - __2013__
+UC Davis Plant Cell Biology Retreat. Asilomar, CA. - __2013__
+ASPB Annual Meeting. Austin, TX. - __2012__
+Graduate Students in Ecology and Evolutionary Biology Symposium, UIUC, Urbana, Illinois. - __2010__
+Proctor and Gamble Student Research Competition. Urbana, IL. - __2007__
+
+
+### Contributed Posters
+Probabilistic Modeling in Genomics, CSHL, NY. - __2015__
+National Science Foundation, Arlington,  VA.  - __2015__
+ASPB Annual Meeting, Minneapolis, MN - __2015__
+Plant Animal Genome, San Diego, CA. Poster Presentation. - __2015__
+National Science Foundation, Arlington,  VA. - __2014__
+ASPB Annual Meeting. Portland, OR. Poster- __2014__
+Keystone Symposium: Plant Abiotic Stress and Sustainable Agriculture. Taos, NM. - __2013__
+ASPB Annual Meeting. Austin, TX. - __2012__
+World Crop FACE Workshop, Tsukuba, Japan. - __2012__
+University of Illinois Public Engagement Symposium: Transforming Our Society. Champaign, IL. - __2012__
+8th Okazaki Biology Conference, Okazaki, Japan.- __2012__
+UIUC Plant Biology Departmental Fall Welcome. Urbana, IL. - __2011__
+Institute for Genomic Biology Fellows Symposium. Poster Presentation. - __2011__
+Plant respiration and climate change. Oxford, United Kingdom. - __2010__
+ASPB Annual Meeting. Honolulu, Hawaii. - __2009__
+ASPB Annual Meeting. Merida, Mexico. - __2008__
+
 
 ### Teaching
-*   Guest Instructor- BIS180L- Undergraduate Bioinformatics Lab. Genetic Networks 1: [Clustering](http://jnmaloof.github.io/BIS180L_web/2015/05/19/genetic-networks-1/), Genetic Networks 2: [Co-expression](http://jnmaloof.github.io/BIS180L_web/2015/05/21/genetic-networks-2/),  __2015__ 
+*   Guest Instructor- BIS180L- Undergraduate Bioinformatics Lab. Genetic Networks 1: [Clustering](http://jnmaloof.github.io/BIS180L_web/labs/), Genetic Networks 2: [Co-expression](http://jnmaloof.github.io/BIS180L_web/labs/),  __2015__ 
 *   Guest Lecturer- Plant Biology 220: Plant Developmental Biology. [QTL mapping with -omics scale data](/pdfs/Markelz_QTL_development_lecture.pdf) - __2015__
 *	Co-instructor and Discussion Leader of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
 *	Teaching Assistant- Integrative Biology 440: Plants and Global Change. Developed science communication module- Graduate students and undergraduates created Podcasts for primary climate change literature. - __2009__
