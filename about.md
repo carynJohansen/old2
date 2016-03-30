@@ -4,7 +4,7 @@ permalink: /about/
 title: Professional learner interested in plants and computers. 
 tagline: 
 tags: 
-modified: 07-01-2014
+modified: 04-28-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
