@@ -4,13 +4,13 @@ permalink: /publications/
 title: Publications
 tagline: 
 tags: 
-modified: 10-30-2015
+modified: 04-02-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
 ---
-* An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (*submitted*) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
-* Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (*in-press*) G enetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology.
+* An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (Accepted) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
+* Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (2016) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology. 25:1122-1140 [paper](http://onlinelibrary.wiley.com/doi/10.1111/mec.13542/full)
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as Arabidopsis thaliana leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
