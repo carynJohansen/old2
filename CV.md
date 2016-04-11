@@ -89,7 +89,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Teaching
-*   Co-instructor- PBI200C- Plant Biology Graduate Group Core, [Plant Primary Productivity: Environmental Impacts on C-Fixation](Markelz-PBL200C-2016-measurements.pdf). Mathematical model based instruction using [photosynthesis simulations](https://rjcmarkelz.shinyapps.io/shiny_photo/). __2016__
+*   Co-instructor- PBI200C- Plant Biology Graduate Group Core, [Plant Primary Productivity: Environmental Impacts on C-Fixation](/pdfs/Markelz-PBL200C-2016-measurements.pdf). Mathematical model based instruction using [photosynthesis simulations](https://rjcmarkelz.shinyapps.io/shiny_photo/). __2016__
 *   Guest Instructor- BIS180L- Undergraduate Bioinformatics Lab. Genetic Networks 1: [Clustering](http://jnmaloof.github.io/BIS180L_web/labs/), Genetic Networks 2: [Co-expression](http://jnmaloof.github.io/BIS180L_web/labs/),  __2015__ 
 *   Guest Lecturer- Plant Biology 220: Plant Developmental Biology. [QTL mapping with -omics scale data](/pdfs/Markelz_QTL_development_lecture.pdf) - __2015__
 *	Co-instructor and Discussion Leader of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
