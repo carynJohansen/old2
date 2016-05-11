@@ -18,10 +18,7 @@ A new module for Plants iView emphasizing quantitative biology and experimental 
 </figure>
 
 ## Art Science Hack v2.0
-Vegetative Mass Media hackathon project for human interaction with plant growth models and exploration of high-dimensional model space. The user can play with the inherent trade-offs that plants face while growing such as allocating resources to above or below ground components. We hope you enjoy this concept science art made in < 48 hours. Code [Here](github.com/rjcmarkelz/artsciencehack)
-
-{% include _vimeoPlayer.html id="150433551" %} 
-
+Vegetative Mass Media hackathon project for human interaction with plant growth models and exploration of high-dimensional model space. The user can play with the inherent trade-offs that plants face while growing such as allocating resources to above or below ground components. We hope you enjoy this concept science art made in < 48 hours. Code [Here](github.com/rjcmarkelz/artsciencehack).
 
 
 ###Participants
@@ -33,6 +30,10 @@ Vegetative Mass Media hackathon project for human interaction with plant growth 
 [John Clark](john-clark.org)
 
 [JP Goguen](bonesjugs.com)
+
+{% include _vimeoPlayer.html id="150433551" %} 
+###
+
 
 ## Art Science Hack v1.0
 This is a new project that I am starting with some friends in Chicago. The idea is to get scientists and artists together in hackathon style weekends to create art in small groups. For more details on our test run check out the post [here](/ArtScienceHack/).
