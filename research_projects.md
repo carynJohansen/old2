@@ -51,13 +51,13 @@ Here is a preview of a canopy scale model output predicting peak canopy N conten
 
 <img src="/images/physiology_simulations.jpg">
 
-In addition, I am developing a high-throughput [3D imaging](https://vimeo.com/108757972) robot and analysis pipeline to take non-destructive plant growth data for model calibration/validation. It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology. 
+In addition, I am developing a high-throughput 3D imaging robot and analysis pipeline to take non-destructive plant growth data for model calibration/validation. It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology. 
 
 <figure>
 	<img  src="/images/3D_summary.jpg">
 </figure>
 
-
+{% include _vimeoPlayer.html id="108757972" %} 
 
 
 
