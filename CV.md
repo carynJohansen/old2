@@ -4,11 +4,16 @@ permalink: /CV/
 title: CV
 tagline: 
 tags: 
-modified: 04-29-2016
+modified: 05-11-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
 ---
+
+### Current Affiliations 
+*   NSF Postdoctoral Fellow - [UC Davis Department of Plant Biology](http://www-plb.ucdavis.edu/)
+*   [UC Davis Data Science Initiative](http://datascience.ucdavis.edu/)
+
 
 ### Education
 *	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__
@@ -18,10 +23,11 @@ Advisor: Dr. Andrew Leakey
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
+*   PI: Physiological systems biology of secondary metabolism in *Brassica rapa leaves.* Amaryllis Nucleics Research Grant ($9600)- __2016__
 *   PI: Developing distributed image processing pipelines for plant growth phenotyping using Docker container based NVIDIA GPU Amazon EC2 instances. Amazon Web Services Research Grant ($5600). - __2015-2016__
 *	Collaborator: Genotyping by Sequencing and Detection of eQTLs in a Recombinant Inbred Line Population of Brassica rapa. TACC Lonestar4 Super Computer Cluster (260,000 Units). - __2013-14__
 *	PI: National Science Foundation Graduate Research Fellowship ($135,000) - __2009-12__
-*	Co-PI: Project Leader, ASPB Education Foundation Grant- Plants iView ($19,983) - __2011-12__
+*	Co-PI: Project Leader, ASPB Education Foundation Grant- Plants iView ($20,000) - __2011-12__
 *	Co-PI: Project Leader, UIUC Public Engagement Grant- Plants iView ($12,500) - __2011-12__
 *	Outstanding Teaching Award- UIUC Department of Plant Biology ($400) - __2012__
 *	Govindjee Award for Excellence in Biological Science ($1000) - __2011__
@@ -29,7 +35,7 @@ Advisor: Dr. Andrew Leakey
 *	PI: Francis M. and Harlie M. Clark Research Grant ($1,000) - __2009__
 *	Distinction- School of Integrative Biology. Thesis Title: “How will elevated [CO<sub>2</sub>] alter soil and plant water status of the C3-crop soybean and the C4-crop maize?” Published as part of Hussain et al. (2013). - __2007__
 
-*	Total Academic Awards: __$392,483__
+*	Total Academic Awards: __$402,100__
 
 
 ### Peer Reviewed Publications
@@ -45,10 +51,11 @@ Advisor: Dr. Andrew Leakey
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
 
 
-### Publications In-preparation
+### Publications in-preparation
 * __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
 * __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
 * Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
+* An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (in prep) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping.
 
 
 ### Invited Talks
@@ -105,7 +112,7 @@ Advisor: Dr. Andrew Leakey
 ### Mentoring
 *	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-__
-*   Christina Day (Biology, UC Davis) - __2013-__
+*   Christina Day (Biology, UC Davis) - __2013-2015__
 *   Neije Mukherjee-Roy (Microbiology, UC Davis) - __2015__
 *   James Ta (Junior Specialist, UC Davis) - Graduate Student Biophysics UC Davis __2014-2015__ 
 *	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - Graduate Student at Cornell University - __2014-2015__

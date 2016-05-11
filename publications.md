@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 tagline: 
 tags: 
-modified: 04-02-2016
+modified: 05-11-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
@@ -19,6 +19,10 @@ image:
 *	Gillespie KM, Xu F, Richter KT, McGrath JM, __Markelz RJC__, Ort DR, Leakey DB, Ainsworth EA (__2012__) Greater Antioxidant and Respiratory Metabolism in Field-Grown Soybean Exposed to Elevated O3 Under Both Ambient and Elevated CO<sub>2</sub> Concentrations. Plant, Cell, and Environment. 35:164-184. [paper](/pdfs/Gillespie_etal_2012.pdf)
 *	__Markelz RJC__, Strellner RS, Leakey ADB (__2011__) Impairment of C<sub>4</sub> photosynthesis by drought is exacerbated by limiting nitrogen and ameliorated by elevated [CO<sub>2</sub>] in maize. Journal of Experimental Botany. 62:3235-3246. [paper](/pdfs/Markelz_etal_2011.pdf)
 *	Leakey ADB, Ainsworth EA, Bernard SM, __Markelz RJC__, Ort DR, Placella S, Rogers A, Smith MD, Sudderth EA, Weston DJ, Wullschleger SD, Yuan S (__2009__) Gene expression profiling – opening the black box of plant ecosystem responses to global change. Global Change Biology. 15:1201-1213. [paper](/pdfs/Leakey_etal_2009.pdf)
+
+#In-prep
+
 * __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
 * __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
 * Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
+* An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (in prep) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping.
