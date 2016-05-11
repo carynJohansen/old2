@@ -4,19 +4,37 @@ permalink: /science_outreach/
 title: Science Outreach
 tagline: 
 tags: 
-modified: 03-17-2015
+modified: 05-11-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
 ---
-## Art Science Hack
+## Plants iView High-Throughput Phenotyping, Raspberry Pi, Computer Vision
+A new module for Plants iView emphasizing quantitative biology and experimental design for 7th graders. Students set up Raspberry Pi Camera rigs to take time-lapse photos of Arabidopsis plants growing in control or drought conditions. Learning the basics of computer vision and plotting students were able to interpret the plant growth data to see if their hypotheses were supported. It was great working with [Jennifer Quebedeaux](http://lab.igb.illinois.edu/leakey/content/jennifer-quebedeaux) on this module.
+
+<figure>
+	<img src="/images/plants-i-view.png"></a>
+	<figcaption>Quantitative biology by 7th graders at Champaign, IL Unit 4 School District </figcaption>
+</figure>
+
+## Art Science Hack v2.0
+Vegetative Mass Media hackathon project for [human interaction with plant growth models](https://vimeo.com/150433551) and exploration of high-dimensional model space. The user can play with the inherent trade-offs that plants face while growing such as allocating resources to above or below ground components. We hope you enjoy this concept science art made in < 48 hours.
+
+Code Here:
+* github.com/rjcmarkelz/artsciencehack
+
+Participants:
+* Cody Markelz- rjcmarkelz.github.io/
+* Matt Harlan- matthewharlan.com/
+* John Clark- john-clark.org/
+* JP Goguen- bonesjugs.com/
+
+## Art Science Hack v1.0
 This is a new project that I am starting with some friends in Chicago. The idea is to get scientists and artists together in hackathon style weekends to create art in small groups. For more details on our test run check out the post [here](/ArtScienceHack/).
 <figure>
 	<img src="/images/artsciencehack_summary.jpg"></a>
 	<figcaption>We created many art products over the four days that were digital, conceptual, sculpture, or 3D prints.</figcaption>
 </figure>
-
-
 
 ## Plants iView
 I led a group of Illinois Plant Biology graduate students in creating middle school plant science curriculum to fit into an afterschool program at Urbana Middle School. As a group we wrote two successful grants to secure funding from the [ASPB Educational Foundation Grant](http://my.aspb.org/?page=EF_ProgramsResources) and the [Illinois Public Engagement Grant](http://engagement.illinois.edu/) for this project. This platform is still in use as a major outreach project for the Illinois Department of Plant Biology. All of the course materials, teacher discussion forum, and student blogs can be accessed through the [Plants iView website](http://www.igb.illinois.edu/plantsiview/lessons). We made sure that the lessons met national and Illinois specific educational standards for grades 6-8. The graduate students then taught all the lessons for the program.
