@@ -23,7 +23,7 @@ Advisor: Dr. Andrew Leakey
 
 ### Grants and Awards
 *	PI: NSF- Postdoctoral Fellowships in Biology- Develop a systems level model of resource allocation and partitioning in *Brassica rapa* to predict growth across multiple genotypes and environments. Plant Genome Research Program ($216,000) - __2014-17__
-*   PI: Physiological systems biology of secondary metabolism in *Brassica rapa leaves.* Amaryllis Nucleics Research Grant ($9600)- __2016__
+*   PI: Physiological systems biology of secondary metabolism in *Brassica rapa* leaves. Amaryllis Nucleics Research Grant ($9600)- __2016__
 *   PI: Developing distributed image processing pipelines for plant growth phenotyping using Docker container based NVIDIA GPU Amazon EC2 instances. Amazon Web Services Research Grant ($5600). - __2015-2016__
 *	Collaborator: Genotyping by Sequencing and Detection of eQTLs in a Recombinant Inbred Line Population of Brassica rapa. TACC Lonestar4 Super Computer Cluster (260,000 Units). - __2013-14__
 *	PI: National Science Foundation Graduate Research Fellowship ($135,000) - __2009-12__
