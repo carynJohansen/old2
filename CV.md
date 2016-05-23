@@ -39,6 +39,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Peer Reviewed Publications
+* An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (in review) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping.
 * An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (Accepted) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
 * Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (2016) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology. 25:1122-1140 [paper](http://onlinelibrary.wiley.com/doi/10.1111/mec.13542/full)
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
@@ -55,7 +56,6 @@ Advisor: Dr. Andrew Leakey
 * __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
 * __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
 * Covington MF, __Markelz RJC__, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
-* An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (in prep) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping.
 
 
 ### Invited Talks
@@ -66,6 +66,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Contributed Talks
+* North American Arabidopsis Steering Committee Focus Group- Training the next generation of quantitative plant biologists. Phoenix, AZ. -__2016__
 * UC Davis Postdoctoral Research Symposium-- Big Data Session. Davis, CA. - __2015__
 * UC Davis Plant Cell Biology Retreat. Davis, CA. - __2015__ 
 * UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. - __2014__
@@ -77,6 +78,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Contributed Posters
+* UC Davis Postdoctoral Research Symposium. Davis, CA. - __2016__
 * Probabilistic Modeling in Genomics, CSHL, NY. - __2015__
 * National Science Foundation, Arlington,  VA.  - __2015__
 * ASPB Annual Meeting, Minneapolis, MN - __2015__
@@ -111,8 +113,8 @@ Advisor: Dr. Andrew Leakey
 
 ### Mentoring
 *	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
-*	Amanjot Kaur (Biotechnology, UC Davis) - __2014-__
-*   Christina Day (Biology, UC Davis) - __2013-2015__
+*   Christina Day (Biology, UC Davis) - __2013-__
+*	Amanjot Kaur (Biotechnology, UC Davis) - __2014-2015__
 *   Neije Mukherjee-Roy (Microbiology, UC Davis) - __2015__
 *   James Ta (Junior Specialist, UC Davis) - Graduate Student Biophysics UC Davis __2014-2015__ 
 *	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - Graduate Student at Cornell University - __2014-2015__

@@ -10,10 +10,10 @@ image:
   creditlink: 
 ---
 # Concept
-I have two really good friends that are both professional designers/artists living in Chicago. Every year over the holiday break we would discuss how fun it would be to do a collaborative project, but never got around to doing one because of our busy schedules. This year we planned a few months in advance to have a hackathon style four day work session between Christmas and New Years. We wanted to move as quickly as possible and make as many ideas happen as possible in our short timeframe. We discussed all of the different data sets that I had as part of various research projects and the ones that turned out to be most appealing were the high-throughput plant imaging data sets. 
+I have two really good friends that are both professional designers/artists living in Chicago. Every year over the holiday break we would discuss how fun it would be to do a collaborative project, but never got around to doing one because of our busy schedules. This year we planned a few months in advance to have a hackathon style four day work session between Christmas and New Years. We wanted to move as quickly as possible and make as many ideas happen as possible in our short time frame. We discussed all of the different data sets that I had as part of various research projects and the ones that turned out to be most appealing were the high-throughput plant imaging data sets. 
 
 # Crew
-[Johnny Clark](http://www.john-clark.org/) is an architect and designer currently working for [Jordan Mozer](http://mozer.com/). The Mozer firm's was our homebase for creativity, industrial grade internet, and organic shape object art inspiration. [Matt Harlan](http://matthewharlan.com/) is a freelance designer and screen printing extrodinaire. Matt also works on this awesome architecture zine called [soiled](http://soiledzine.org/). And myself.
+[Johnny Clark](http://www.john-clark.org/) is an architect and designer currently working for [Jordan Mozer](http://mozer.com/). The Mozer firm's was our home base for creativity, industrial grade internet, and organic shape object art inspiration. [Matt Harlan](http://matthewharlan.com/) is a freelance designer and screen printing guru. Matt also works on this awesome architecture zine called [soiled](http://soiledzine.org/). And myself.
 
 ## Examples
 
