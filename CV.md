@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 tagline: 
 tags: 
-modified: 05-11-2016
+modified: 06-26-2016
 comments: false
 image:
   feature: texture-feature-06.jpg
@@ -79,6 +79,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Contributed Posters
+* ASPB Annual Meeting. Austin, TX. - __2016__
 * UC Davis Postdoctoral Research Symposium. Davis, CA. - __2016__
 * Probabilistic Modeling in Genomics, CSHL, NY. - __2015__
 * National Science Foundation, Arlington,  VA.  - __2015__
