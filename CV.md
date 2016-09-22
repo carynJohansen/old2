@@ -56,10 +56,7 @@ Advisor: Dr. Andrew Leakey
 ### Publications in-preparation
 * __Markelz RJC__, Devisetty UK, Covington MF, Maloof JN (in prep) Expression quantitative trait mapping in *Brassica rapa* in response to crowding reveals genomic hotspot for shade avoidance gene network clusters.
 * __Markelz RJC__, Baker RL, An N, Freund D, Devisetty UK, Covington MF, Brock M, Hegeman A, Welch S, Weinig C, Maloof JN (in prep) Systems genetics in *Brassica rapa* reveals genotype to phenotype connections from high-throughput phenotyping data.
-<<<<<<< HEAD
-=======
-* __Markelz RJC__,Covington MF, Devisetty UK, Brock M, Weinig C, Maloof JN (in prep) Using RNA-seq in a genetic mapping population for placement of genomic scaffolds, fixing misassembles, and creating a genetic map.
->>>>>>> b00bc0f504d7e80e5c0a76340bba35f27104c2ef
+
 
 
 ### Invited Talks
