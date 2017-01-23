@@ -9,7 +9,7 @@ comments: false
 image:
   feature: texture-feature-06.jpg
 ---
-* __Markelz RJC__<sup>1</sup>, Covington MF<sup>1</sup>, Devisetty UK, Brock M, Kliebenstein DJ, Weinig C, Maloof JN (submitted) Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population. <sup>1</sup>Equal contribution.
+* __Markelz RJC__<sup>1</sup>, Covington MF<sup>1</sup>, Devisetty UK, Brock M, Kliebenstein DJ, Weinig C, Maloof JN ([submitted](http://biorxiv.org/content/early/2016/09/22/076745)) Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population. <sup>1</sup>Equal contribution.
 * An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (in review) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping.
 * An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (Accepted) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
 * Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (__2016__) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology. 25:1122-1140 [paper](http://onlinelibrary.wiley.com/doi/10.1111/mec.13542/full)
