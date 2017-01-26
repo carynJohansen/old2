@@ -38,7 +38,7 @@ Advisor: Dr. Andrew Leakey
 *	Total Academic Awards: __$402,100__
 
 
-i### Peer Reviewed Publications
+### Peer Reviewed Publications
 * __Markelz RJC__<sup>1</sup>, Covington MF<sup>1</sup>, Devisetty UK, Brock M, Kliebenstein DJ, Weinig C, Maloof JN ([submitted](http://biorxiv.org/content/early/2016/09/22/076745)) Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population. <sup>1</sup>Equal contribution. 
 
 * An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (in review) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping.
