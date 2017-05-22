@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 tagline: 
 tags: 
-modified: 09-22-2016
+modified: 05-22-2017
 comments: false
 image:
   feature: texture-feature-06.jpg
@@ -38,12 +38,12 @@ Advisor: Dr. Andrew Leakey
 *	Total Academic Awards: __$402,100__
 
 
-i### Peer Reviewed Publications
-* __Markelz RJC__<sup>1</sup>, Covington MF<sup>1</sup>, Devisetty UK, Brock M, Kliebenstein DJ, Weinig C, Maloof JN ([submitted](http://biorxiv.org/content/early/2016/09/22/076745)) Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population. <sup>1</sup>Equal contribution. 
-
-* An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (in review) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping.
-* An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (Accepted) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
-* Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (2016) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology. 25:1122-1140 [paper](http://onlinelibrary.wiley.com/doi/10.1111/mec.13542/full)
+### Peer Reviewed Publications
+* __Markelz RJC__<sup>1</sup>, Covington MF<sup>1</sup>, Devisetty UK, Brock M, Kliebenstein DJ, Weinig C, Maloof JN ([in-press at G3](http://biorxiv.org/content/early/2016/09/22/076745)) Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population. <sup>1</sup>Equal contribution. 
+* Alexander Bucksch, Acheampong Atta-Boateng, Akomian Fortuné Azihou, Dorjsuren Battogtokh, Aly Baumgartner, Brad M Binder, Siobhan Braybrook, Cynthia Chang, Viktoriya Coneva, Thomas DeWitt, Alexander Fletcher, Malia Gehan, Diego Hernan Diaz Martinez, Lilan Hong, Anjali Iyer-Pascuzzi, Laura L Klein, Samuel Allen Leiboff, Mao Li, Jonathan Lynch, Alexis Maizel, Julin N Maloof, __RJ Cody Markelz__, Ciera Martinez, Laura Ann Miller, Washington Mio, Wojtek Palubicki, Hendrik Poorter, Christophe Pradal, Charles Price, Eetu Puttonen, John Reese, Rubén Rellán-Álvarez, Edgar P Spalding, Erin E. Sparks, Christopher N Topp, Joseph H Williams, Daniel H Chitwood (__in-press__) Morphological Plant Modeling: Unleashing Geometric and Topological Potential within the Plant Sciences. Frontiers in Plant Sciences.
+* An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (__in-press__) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping. Computers and Electronics in Agriculture.
+* An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (__in-press__) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
+* Brock MT, Lucas L, Anderson N, Rubin M, __Markelz RJC__, Covington MF, Devisetty UK, Chapple C, Maloof JN, Weinig C (__2016__) Genetic architecture, biochemical underpinnings, and ecological impact of floral UV patterning. Molecular Ecology. 25:1122-1140 [paper](http://onlinelibrary.wiley.com/doi/10.1111/mec.13542/full)
 * Baker RL, Leong WF, Brock MT, __Markelz RJC__, Covington MF, Devisetty UK, Maloof JN, Welch S, Weinig C (__2015__) Modeling development and quantitative trait mapping reveal independent genetic modules for leaf size and shape. New Phytologist. 208: 257–268. [paper](/pdfs/Baker_etal_2015.pdf)
 * __Markelz RJC__, Vosseller LN, Leakey ADB (__2014__) Elevated CO<sub>2</sub> concentration induces transcriptional reprogramming of respiration and a stimulation of dark respiration as *Arabidopsis thaliana* leaves transition from sinks to sources. Plant, Cell, and Environment. 37:2542-2552. [paper](/pdfs/Markelz_etal_2014b.pdf)
 * __Markelz RJC__, Lai LX, Vosseller LN, Leakey ADB (__2014__) The stimulation of leaf respiration and transcriptional reprogramming by elevated CO<sub>2</sub> concentration is diminished, but not eliminated, under limiting nitrogen supply. Plant, Cell, and Environment. 37:886-898. [paper](/pdfs/Markelz_etal_2014a.pdf)
@@ -61,6 +61,7 @@ i### Peer Reviewed Publications
 
 
 ### Invited Talks
+* Full Stack Biology: Moving freely between biological layers with databases, statistics, and network modeling (__2017__) Phenome 2017. Tucson, AZ. 
 * Whole plant systems biology: a *Brassica rapa* exemplar (__2016__). Plant Research Lab- Michigan State University. East Lansing, MI.
 * Connecting genotype to phenotype in *Brassica rapa* using statistical and computational techniques (__2015__). University of Minnesota, St. Paul, MN.
 * Systems biology of plant competition in *Brassica rapa* (__2014__). Plant Genome Research Program- National Science Foundation. Arlington, VA. 
@@ -69,7 +70,7 @@ i### Peer Reviewed Publications
 
 ### Contributed Talks
 * ASPB Annual Meeting. Austin, TX. - __2016__
-* North American Arabidopsis Steering Committee Focus Group- Training the next generation of quantitative plant biologists. Phoenix, AZ. -__2016__
+* North American Arabidopsis Steering Committee Focus Group- Training the next generation of quantitative plant biologists. Phoenix, AZ. - __2016__
 * UC Davis Postdoctoral Research Symposium-- Big Data Session. Davis, CA. - __2015__
 * UC Davis Plant Cell Biology Retreat. Davis, CA. - __2015__ 
 * UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. - __2014__
@@ -116,8 +117,8 @@ i### Peer Reviewed Publications
 *	Frontiers and Techniques in Plant Science- Cold Spring Harbor Laboratory - __2010__
 
 ### Mentoring
-*	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-__
-*   Christina Day (Biology, UC Davis) - __2013-__
+*	Lakshmi Pabbisetty (Biology, UC Davis) - __2015-2017__
+*   Christina Day (Biology, UC Davis) - __2013-2017__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-2015__
 *   Neije Mukherjee-Roy (Microbiology, UC Davis) - __2015__
 *   James Ta (Junior Specialist, UC Davis) - Graduate Student Biophysics UC Davis __2014-2015__ 
