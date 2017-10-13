@@ -2,18 +2,20 @@
 layout: page
 permalink: /CV/
 title: CV
-tagline: 
-tags: 
-modified: 05-22-2017
+tagline:
+tags:
+modified: 10-13-2017
 comments: false
 image:
   feature: texture-feature-06.jpg
 ---
 
-### Current Affiliations 
-*   NSF Postdoctoral Fellow - [UC Davis Department of Plant Biology](http://www-plb.ucdavis.edu/)
-*   [UC Davis Data Science Initiative](http://datascience.ucdavis.edu/)
+### Current Affiliations
+Co-Founder and VP of Genomics [Rev Genomics](www.revgenomics.com)
 
+### Previous Affiliations
+*   NSF Postdoctoral Fellow - [UC Davis Department of Plant Biology](http://www-plb.ucdavis.edu/) __2014-17__
+*   [UC Davis Data Science Initiative](http://datascience.ucdavis.edu/) __2016-17__
 
 ### Education
 *	Ph.D. Plant Biology, University of Illinois at Urbana-Champaign	- __2012__
@@ -39,7 +41,7 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Peer Reviewed Publications
-* __Markelz RJC__<sup>1</sup>, Covington MF<sup>1</sup>, Devisetty UK, Brock M, Kliebenstein DJ, Weinig C, Maloof JN ([in-press at G3](http://biorxiv.org/content/early/2016/09/22/076745)) Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population. <sup>1</sup>Equal contribution. 
+* __Markelz RJC__<sup>1</sup>, Covington MF<sup>1</sup>, Devisetty UK, Brock M, Kliebenstein DJ, Weinig C, Maloof JN ([in-press at G3](http://biorxiv.org/content/early/2016/09/22/076745)) Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population. <sup>1</sup>Equal contribution.
 * Alexander Bucksch, Acheampong Atta-Boateng, Akomian Fortuné Azihou, Dorjsuren Battogtokh, Aly Baumgartner, Brad M Binder, Siobhan Braybrook, Cynthia Chang, Viktoriya Coneva, Thomas DeWitt, Alexander Fletcher, Malia Gehan, Diego Hernan Diaz Martinez, Lilan Hong, Anjali Iyer-Pascuzzi, Laura L Klein, Samuel Allen Leiboff, Mao Li, Jonathan Lynch, Alexis Maizel, Julin N Maloof, __RJ Cody Markelz__, Ciera Martinez, Laura Ann Miller, Washington Mio, Wojtek Palubicki, Hendrik Poorter, Christophe Pradal, Charles Price, Eetu Puttonen, John Reese, Rubén Rellán-Álvarez, Edgar P Spalding, Erin E. Sparks, Christopher N Topp, Joseph H Williams, Daniel H Chitwood (__in-press__) Morphological Plant Modeling: Unleashing Geometric and Topological Potential within the Plant Sciences. Frontiers in Plant Sciences.
 * An N, Welch SM, __Markelz RJC__, Baker RL, Palmer CM, Ta J, Maloof JN, Weinig C (__in-press__) Using photogrammetry and plant modeling techniques to quantify 2D and 3D rossette area for time-series high-throughput phenotyping. Computers and Electronics in Agriculture.
 * An N, Palmer CM, Baker RL, __Markelz RJC__, Ta JT, Covington MF, Maloof JN, Welch SM, Weinig C (__in-press__) Plant High-Throughput Phenotyping Using Photogrammetry and imaging Techniques to Measure Leaf Length and Rosette Area. Computers and Electronics in Agriculture.
@@ -61,10 +63,10 @@ Advisor: Dr. Andrew Leakey
 
 
 ### Invited Talks
-* Full Stack Biology: Moving freely between biological layers with databases, statistics, and network modeling (__2017__) Phenome 2017. Tucson, AZ. 
+* Full Stack Biology: Moving freely between biological layers with databases, statistics, and network modeling (__2017__) Phenome 2017. Tucson, AZ.
 * Whole plant systems biology: a *Brassica rapa* exemplar (__2016__). Plant Research Lab- Michigan State University. East Lansing, MI.
 * Connecting genotype to phenotype in *Brassica rapa* using statistical and computational techniques (__2015__). University of Minnesota, St. Paul, MN.
-* Systems biology of plant competition in *Brassica rapa* (__2014__). Plant Genome Research Program- National Science Foundation. Arlington, VA. 
+* Systems biology of plant competition in *Brassica rapa* (__2014__). Plant Genome Research Program- National Science Foundation. Arlington, VA.
 * Adapting crops to global climate change (__2009__). Darwin 200: A South American celebration. Maldonado, Uruguay.
 
 
@@ -72,7 +74,7 @@ Advisor: Dr. Andrew Leakey
 * ASPB Annual Meeting. Austin, TX. - __2016__
 * North American Arabidopsis Steering Committee Focus Group- Training the next generation of quantitative plant biologists. Phoenix, AZ. - __2016__
 * UC Davis Postdoctoral Research Symposium-- Big Data Session. Davis, CA. - __2015__
-* UC Davis Plant Cell Biology Retreat. Davis, CA. - __2015__ 
+* UC Davis Plant Cell Biology Retreat. Davis, CA. - __2015__
 * UC Davis Plant Cell Biology Retreat. Marconi Historic Park, CA. - __2014__
 * UC Davis Postdoctoral Seminar Series. Davis, CA. - __2013__
 * UC Davis Plant Cell Biology Retreat. Asilomar, CA. - __2013__
@@ -104,7 +106,7 @@ Advisor: Dr. Andrew Leakey
 
 ### Teaching
 *   Co-instructor- PBI200C- Plant Biology Graduate Group Core, [Plant Primary Productivity: Environmental Impacts on C-Fixation](/pdfs/Markelz-PBL200C-2016-measurements.pdf). Mathematical model based instruction using [photosynthesis simulations](https://rjcmarkelz.shinyapps.io/shiny_photo/). __2016__
-*   Guest Instructor- BIS180L- Undergraduate Bioinformatics Lab. Genetic Networks 1: [Clustering](http://jnmaloof.github.io/BIS180L_web/labs/), Genetic Networks 2: [Co-expression](http://jnmaloof.github.io/BIS180L_web/labs/),  __2015__ 
+*   Guest Instructor- BIS180L- Undergraduate Bioinformatics Lab. Genetic Networks 1: [Clustering](http://jnmaloof.github.io/BIS180L_web/labs/), Genetic Networks 2: [Co-expression](http://jnmaloof.github.io/BIS180L_web/labs/),  __2015__
 *   Guest Lecturer- Plant Biology 220: Plant Developmental Biology. [QTL mapping with -omics scale data](/pdfs/Markelz_QTL_development_lecture.pdf) - __2015__
 *	Co-instructor and Discussion Leader of General Education Class- Integrative Biology 107: Global Warming, Biofuels, and Food - __2011__ _List of Teachers Ranked Excellent by Their Students; Outstanding Teaching Award Department of Plant Biology_
 *	Teaching Assistant- Integrative Biology 440: Plants and Global Change. Developed science communication module- Graduate students and undergraduates created Podcasts for primary climate change literature. - __2009__
@@ -121,7 +123,7 @@ Advisor: Dr. Andrew Leakey
 *   Christina Day (Biology, UC Davis) - __2013-2017__
 *	Amanjot Kaur (Biotechnology, UC Davis) - __2014-2015__
 *   Neije Mukherjee-Roy (Microbiology, UC Davis) - __2015__
-*   James Ta (Junior Specialist, UC Davis) - Graduate Student Biophysics UC Davis __2014-2015__ 
+*   James Ta (Junior Specialist, UC Davis) - Graduate Student Biophysics UC Davis __2014-2015__
 *	[Tiffany Ho](https://github.com/tiaho) (Genetics, Bioinformatics, UC Davis) - Graduate Student at Cornell University - __2014-2015__
 *   Shweta Dash (Biology, UC Davis) - __2015__
 *	Kamalpreet Sahota (Religious Studies, Biology- UC Davis) – Graduate Student at Touro University - __2013-14__
@@ -152,9 +154,4 @@ Advisor: Dr. Andrew Leakey
 
 ### Unpaid Science Consulting
 *   Justin Gillis- NY Times Science Reporter __2011__ [HARVEST Article](http://www.nytimes.com/2011/06/05/science/earth/05harvest.html?_r=0)
-*   [LI-COR Environmental](http://www.licor.com/env/) __2011__ 
-
-
-
-
-
+*   [LI-COR Environmental](http://www.licor.com/env/) __2011__

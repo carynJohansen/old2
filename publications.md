@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 tagline: 
-tags: 
+tags:
 modified: 05-22-2017
 comments: false
 image:
