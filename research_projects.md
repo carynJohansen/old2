@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /research_projects/
-title: 
-tagline: 
-tags: 
+title:
+tagline:
+tags:
 modified: 01-28-2015
 comments: false
 image:
@@ -12,10 +12,6 @@ image:
 ---
 
 ## Postdoc Research Interests
-
-I am generally interested in the complexities of nature and choose problems that require (at least) a paper and pencil to work out. Plants are fascinating because they integrate internal developmental program information with external environmental information in order to successfully produce viable offspring. It is also amazing that the same genotype of plant can be grown in two different environments and have very different physiology, growth and morphology as outputs. Additionally, the fact that that this plasticity is noisy, yet reproducible suggests that one can understand the complexity by modeling the components that there is evidence for. If done correctly, modeling should lead to new insights about the system that is being studied. Statistical, mechanistic, empirical, or conceptual models all have great utility in understanding complexity. Simply writing down any style of model will quickly show what is known and what is not known about the biological system under study. It is the mentally fuzzy components of the model that need more attention through background reading, conceptual or mathematical refinement, and once these boxes are checked then new experiments can be **designed**. The sheer amount of data being generated in biology is staggering. Without prior experimental design, models, and time to digest the complexity of large datasets there is little value to justify the expense in the first place. This is the importance of quality models. I use models as tools to understand the beauty and complexity of nature.
-
-Building on this general philosophical framework, the biological question I am interested in is plant competition because it requires a multi-disciplinary approach. Specifically I am interested in how plants make metabolic trade-offs to compete for light resources above ground while also competing for nutrient and water resources below ground. To answer this question I am taking a systems genetics approach that leverages my background in whole plant physiology, metabolism, genomics and modeling. This approach allows me to scale from DNA polymorphisms to whole plant growth models using Bayesian statistics as the probabilistic glue across these scales. The following is a description of my current postdoc projects. My graduate equipment and research projects can be found [here](/research_projects/graduate/).
 
 ## Physiological Systems Biology of Competition in *Brassica rapa*
 
@@ -31,7 +27,7 @@ Plants growing in dense stands compete with one another for light resources at t
 	<img  src="/images/graph_db.jpg">
 </figure>
 
-Hard won biological data (especially from the field) should not just sit in a lab note book or on spread sheets scattered across various machines. Sharing phenotypic data after publication should be a priority for us as a community, just like putting sequencing data into NCBI databases ([see Zamir 2013](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001595)). This allows for the data to be used to ask multiple questions, for modeling, or to be analyzed using systems biology techniques. Towards all these goals I have designed a graph database to house all of the published trait data, experimental meta-data, publications, gene expression data, from the *B. rapa* population that I am working with combined with all the genomic features of the reference genome. 
+Hard won biological data (especially from the field) should not just sit in a lab note book or on spread sheets scattered across various machines. Sharing phenotypic data after publication should be a priority for us as a community, just like putting sequencing data into NCBI databases ([see Zamir 2013](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001595)). This allows for the data to be used to ask multiple questions, for modeling, or to be analyzed using systems biology techniques. Towards all these goals I have designed a graph database to house all of the published trait data, experimental meta-data, publications, gene expression data, from the *B. rapa* population that I am working with combined with all the genomic features of the reference genome.
 
 A partial realization of this work has come out of working with an undergraduate [Tiffany Ho](https://github.com/tiaho) to create an interactive data visualization tool to examine co-occurrence of eQTL with physiological QTL called [QTLVisR](http://symposium.plb.ucdavis.edu/apps/qtl-visualization). This is still a work in progress, but the example does a great job showing the concept.
 
@@ -47,18 +43,14 @@ I have been working on this aspect of my project the longest. The central dogma 
 
 I am using this data to parameterize physiologically based models of plant growth. Coming full circle to my PhD work in metabolism and physiology. This is my favorite part of my project. It involves integrating environmental time course data, physiological QTLs, and programming mathematical models of plant growth. Based on my meta-analysis results, and preliminary physiological modeling results, I choose a subset of genotypes to grow in the field for 2014 to test model predictions. The field site I work at is home to three close collaborators at University of Wyoming: [Dr. Rob Baker](http://www.robertlbaker.org/Evolution_and_Development.html), Dr. Marc Brock, and [Dr. Cynthia Weinig](http://www.uwyo.edu/molecbio/faculty-and-staff/cyntia-weinig.html)
 
-Here is a preview of a canopy scale model output predicting peak canopy N content for four different treatments. Notice that there is a clear interaction between N availability and crowding as to when there is peak canopy N. I am currently working on the physiology, metabolomics and RNA-seq samples with four great undergrads: Christina Day, Amanjot Kaur, Lakshmi Pabbisetty, and Neije Mukherjee-Roy. 
+Here is a preview of a canopy scale model output predicting peak canopy N content for four different treatments. Notice that there is a clear interaction between N availability and crowding as to when there is peak canopy N. I am currently working on the physiology, metabolomics and RNA-seq samples with four great undergrads: Christina Day, Amanjot Kaur, Lakshmi Pabbisetty, and Neije Mukherjee-Roy.
 
 <img src="/images/physiology_simulations.jpg">
 
-In addition, I am developing a high-throughput 3D imaging robot and analysis pipeline to take non-destructive plant growth data for model calibration/validation. It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology. 
+In addition, I am developing a high-throughput 3D imaging robot and analysis pipeline to take non-destructive plant growth data for model calibration/validation. It is really enjoyable to build equipment. It pulls together many ways of thinking about biological problems. It forces the biologist to really think about what process they are trying understand and how to quantify it using some sort of sensor. These projects help biologists build intuition about measurement error, instrument limitation, methods development, materials selection, and design. These are skills that are undervalued in biology.
 
 <figure>
 	<img  src="/images/3D_summary.jpg">
 </figure>
 
-{% include _vimeoPlayer.html id="108757972" %} 
-
-
-
-
+{% include _vimeoPlayer.html id="108757972" %}
