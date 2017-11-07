@@ -11,7 +11,11 @@ image:
   <!-- credit: Arabidopsis contrast -->
 ---
 
+# Postdoc Projects
+
+
 ## Physiological Systems Biology of Competition in *Brassica rapa*
+
 
 <figure>
 	<img style="float: right" src="/images/research_overview.jpg">
