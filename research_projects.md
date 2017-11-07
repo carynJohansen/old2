@@ -1,21 +1,17 @@
 ---
 layout: page
 permalink: /research_projects/
-title:
+title: Postdoc Projects
 tagline:
 tags:
-modified: 01-28-2015
+modified: 11-07-2017
 comments: false
 image:
   feature: texture-feature-06.jpg
   <!-- credit: Arabidopsis contrast -->
 ---
 
-# Postdoc Projects
-
-
 ## Physiological Systems Biology of Competition in *Brassica rapa*
-
 
 <figure>
 	<img style="float: right" src="/images/research_overview.jpg">
